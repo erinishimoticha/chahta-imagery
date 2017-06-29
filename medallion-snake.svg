@@ -11,15 +11,15 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1373.2848mm"
-   height="873.05804mm"
-   viewBox="0 0 2746.5697 1746.1162"
+   width="880.39447mm"
+   height="804.68689mm"
+   viewBox="0 0 1760.789 1609.3739"
    version="1.1"
    id="svg8"
    inkscape:export-filename="/home/erin/tmp/test.png"
    inkscape:export-xdpi="300.01486"
    inkscape:export-ydpi="300.01486"
-   sodipodi:docname="medallion-snake.svg"
+   sodipodi:docname="medallion-snake.svg.2017_06_29_18_54_38.0.svg"
    inkscape:version="0.92.1 15371">
   <sodipodi:namedview
      id="base"
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25"
-     inkscape:cx="4254.6469"
-     inkscape:cy="1763.1074"
+     inkscape:zoom="0.125"
+     inkscape:cx="519.3348"
+     inkscape:cy="1119.0502"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -57,31 +57,76 @@
     <inkscape:grid
        type="xygrid"
        id="grid5975"
-       originx="2528.1313"
-       originy="400.77629" />
+       originx="1751.6723"
+       originy="400.77618" />
     <sodipodi:guide
-       position="-77.200067,938.92013"
+       position="-853.65908,938.92001"
        orientation="1,0"
        id="guide4823"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-33.140684,955.00973"
+       position="-809.5997,955.00961"
        orientation="1,0"
        id="guide4827"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="2358.7979,950.11885"
+       position="1582.3389,950.11873"
        orientation="0,1"
        id="guide6420"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="2242.873,1053.5709"
+       position="1466.414,1053.5708"
        orientation="1,0"
        id="guide6422"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
      id="defs2">
+    <inkscape:path-effect
+       bendpath-nodetypes="cc"
+       vertical="false"
+       scale_y_rel="false"
+       prop_scale="1"
+       bendpath="m 36.019653,112.36154 c 34.620632,-16.37544 84.896617,-22.12009 133.860607,0"
+       is_visible="true"
+       id="path-effect5672"
+       effect="bend_path" />
+    <inkscape:path-effect
+       bendpath-nodetypes="cc"
+       vertical="false"
+       scale_y_rel="false"
+       prop_scale="1"
+       bendpath="m -222.2499,-206.55255 c 56.95457,-20.79209 94.53207,-15.08125 133.8606,0"
+       is_visible="true"
+       id="path-effect5662"
+       effect="bend_path" />
+    <inkscape:path-effect
+       effect="bend_path"
+       id="path-effect4884"
+       is_visible="true"
+       bendpath="m 36.019653,112.36154 c 34.620632,-16.37544 84.896617,-22.12009 133.860607,0"
+       prop_scale="1"
+       scale_y_rel="false"
+       vertical="false"
+       bendpath-nodetypes="cc" />
+    <inkscape:path-effect
+       bendpath-nodetypes="cc"
+       vertical="false"
+       scale_y_rel="false"
+       prop_scale="1"
+       bendpath="m -222.2499,-206.55255 c 56.95457,-20.79209 94.53207,-15.08125 133.8606,0"
+       is_visible="true"
+       id="path-effect4842"
+       effect="bend_path" />
+    <inkscape:path-effect
+       bendpath-nodetypes="cc"
+       vertical="false"
+       scale_y_rel="false"
+       prop_scale="1"
+       bendpath="m 36.019653,112.36154 c 34.620632,-16.37544 84.896617,-22.12009 133.860607,0"
+       is_visible="true"
+       id="path-effect4832"
+       effect="bend_path" />
     <inkscape:path-effect
        bendpath-nodetypes="cc"
        vertical="false"
@@ -449,7 +494,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -458,7 +503,7 @@
      id="layer3"
      inkscape:label="hide"
      style="display:none"
-     transform="translate(516.33875,1274.8102)">
+     transform="translate(-260.12026,1138.068)">
     <path
        transform="translate(2011.7925,-502.94765)"
        inkscape:connector-curvature="0"
@@ -475,19 +520,19 @@
      id="layer2"
      inkscape:label="head"
      style="display:inline"
-     transform="translate(516.33875,1274.8102)" />
+     transform="translate(-260.12026,1138.068)" />
   <g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="body outline"
      style="display:inline"
-     transform="translate(516.33875,1274.8102)" />
+     transform="translate(-260.12026,1138.068)" />
   <g
      style="display:inline"
      inkscape:label="snake"
      id="layer6"
      inkscape:groupmode="layer"
-     transform="translate(2528.1312,771.86254)">
+     transform="translate(1751.6722,635.12036)">
     <circle
        r="0"
        style="fill:none;fill-opacity:0.9375;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
@@ -585,13 +630,13 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="teeth"
-     transform="translate(516.33875,1274.8102)" />
+     transform="translate(-260.12026,1138.068)" />
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="separator1"
      style="display:inline"
-     transform="translate(516.33875,1274.8102)">
+     transform="translate(-260.12026,1138.068)">
     <g
        id="g5546"
        transform="translate(590.09067,-51.661277)">
@@ -734,14 +779,14 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="patterns"
-     transform="translate(2528.1312,771.86254)"
+     transform="translate(1751.6722,635.12036)"
      style="display:inline">
     <circle
        r="234.63606"
        cy="25.986942"
        cx="-283.60355"
        id="circle6467"
-       style="display:inline;fill:#e3dccf;fill-opacity:1;fill-rule:nonzero;stroke:#0d0000;stroke-width:8.0000006;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       style="display:inline;fill:#e3dccf;fill-opacity:1;fill-rule:nonzero;stroke:#0d0000;stroke-width:8.00000095;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        inkscape:export-filename="/home/erin/tmp/snake-medallion.png"
        inkscape:export-xdpi="40.020771"
        inkscape:export-ydpi="40.020771" />
@@ -1579,7 +1624,7 @@
        inkscape:connector-curvature="0"
        id="path4585-2"
        d="m -273.46171,-102.32483 c 12.31985,1.48342 24.97614,5.05249 37.27033,10.067907 18.25705,7.953797 34.75153,18.761488 46.29399,32.239746 11.93347,13.133209 20.59921,30.845489 26.21411,49.949502 v 2.3e-5 c 5.16388,19.2308931 6.9981,38.862724 3.65741,56.287587 -2.82696,17.51547 -11.27099,35.331695 -22.70489,51.630975 -11.81445,16.02567 -26.0177,29.69828 -41.72132,37.94916 -1e-5,0 -2e-5,0 -2e-5,1e-5 -15.45407,8.70916 -34.64567,13.21489 -54.51562,14.43791 -19.89331,0.75474 -39.43607,-1.82464 -55.67515,-8.95681 -6.54749,-2.54684 -13.53568,-7.3634 -20.99178,-13.31903 -8.59312,-7.50204 -16.60097,-15.93895 -22.62215,-23.47108 -6.79131,-8.660083 -12.7547,-17.77367 -17.61984,-27.212319 v -1.1e-5 c -4.26157,-8.55163 -7.7814,-19.443584 -8.59907,-23.467052 -0.25407,-1.250154 -1.36464,-5.477501 -0.77055,-11.317675 1.08232,-6.493802 4.37271,-12.704379 7.90906,-19.896236 7.00799,-13.2249714 17.43385,-24.1160364 28.71569,-26.5346538 6.35971,-1.363404 16.21069,-1.0997981 21.72022,0.4608201 1.80034,0.4580859 3.61447,0.9520536 5.44281,1.4788089 4.93099,-17.6243962 9.82691,-35.2587722 14.68736,-52.9031842 -2.11558,-0.605191 -4.23954,-1.185014 -6.37222,-1.737031 -10.89334,-2.827967 -22.11564,-4.986528 -33.55165,-5.319585 -4.82122,-0.140108 -9.70855,0.07929 -14.55785,0.888664 l -3e-5,4e-6 c -4.29055,0.712184 -8.56958,1.932693 -12.59705,3.869901 -10e-6,4e-6 -10e-6,8e-6 -2e-5,1.1e-5 -11.46123,5.557554 -21.52972,13.584038 -30.11389,22.797567 -8.94224,9.582535 -16.40371,20.487255 -22.31715,32.1399646 -5.70214,11.2182659 -10.02082,23.2164784 -12.30369,35.6686274 -2.03075,10.966815 -2.45305,22.485788 0.20778,33.571939 3.02424,12.431054 7.93073,24.279143 13.75886,35.5215 6.5726,12.69531 14.40978,24.7148 23.24117,35.93014 9.00705,11.44439 19.09289,22.095 30.32146,31.44774 l 2e-5,2e-5 c 10.58712,8.82779 22.27857,16.53819 35.10183,21.95351 25.08998,10.55835 52.64674,14.54402 79.71802,13.17782 27.0725,-1.34172 54.09268,-8.05702 78.0007,-21.06441 23.89503,-13.03127 44.19015,-32.0889 59.99912,-54.10357 15.82873,-22.00048 27.42407,-47.309721 32.16016,-74.108146 4.70951,-26.80311 2.46362,-54.5495662 -4.89057,-80.632787 -1e-5,-1.4e-5 -2e-5,-2.9e-5 -2e-5,-4.4e-5 -7.33094,-26.089727 -19.88741,-50.932587 -37.88398,-71.341104 -2e-5,-9e-6 -3e-5,-2.3e-5 -4e-5,-3.8e-5 -18.01666,-20.390831 -41.10745,-35.932711 -66.08279,-46.444611 -16.73134,-7.05948 -32.05073,-10.34242 -50.12265,-12.38575"
-       style="display:inline;fill:#8e8e8e;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       style="display:inline;fill:#8e8e8e;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="/home/erin/tmp/snake-medallion.png"
        inkscape:export-xdpi="40.020771"
        inkscape:export-ydpi="40.020771" />
@@ -1924,7 +1969,7 @@
        rx="5.7110558"
        ry="5.6924591" />
     <circle
-       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81000013;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81000018;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path5676"
        cx="-283.60358"
        cy="24.844957"
@@ -2244,5 +2289,358 @@
          d="m 1634.1731,585.80166 c -5.7904,-6.34676 -14.2726,-12.87876 -19.869,-17.35783 -5.5964,-4.47907 -9.0982,-6.70911 -15.4352,-9.19425 4.6023,-4.74931 9.9564,-9.68082 15.1508,-13.47994 8.4701,-5.70513 16.0352,-8.94119 26.3088,-12.93657"
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.01313066;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
+    <circle
+       inkscape:export-ydpi="40.020771"
+       inkscape:export-xdpi="40.020771"
+       inkscape:export-filename="/home/erin/tmp/snake-medallion.png"
+       style="display:inline;fill:#e3dccf;fill-opacity:1;fill-rule:nonzero;stroke:#0d0000;stroke-width:8.00000095;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="circle4807"
+       cx="-229.51923"
+       cy="528.1145"
+       r="234.63606" />
+    <path
+       inkscape:export-ydpi="40.020771"
+       inkscape:export-xdpi="40.020771"
+       inkscape:export-filename="/home/erin/tmp/snake-medallion.png"
+       sodipodi:nodetypes="zczsczzczzczz"
+       inkscape:connector-curvature="0"
+       id="path4810"
+       d="m -459.16471,481.6903 c 6.45721,-5.94401 112.99365,-0.26184 183.63128,0 0.0753,-49.70495 -5.76639,-177.81541 0,-183.64013 5.76639,-5.8247 85.32647,-7.11692 91.81563,0 5.50416,6.0366 0,183.64013 0,183.64013 0,0 177.0925345,-6.38765 183.63127746,0 6.53892604,6.38766 6.59493304,86.45117 0,91.82007 -6.59493396,5.36889 -183.63127746,0 -183.63127746,0 0,0 7.09662,176.91836 0,183.64012 -7.09661,6.72178 -87.13487,5.14501 -91.81563,0 -4.68076,-5.14499 0,-183.64012 0,-183.64012 0,0 -178.35354,5.46317 -183.63128,0 -5.27756,-5.46318 -6.45721,-85.87604 0,-91.82007 z"
+       style="fill:#c6b69b;fill-opacity:1;stroke:#000000;stroke-width:4.70510864;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="40.020771"
+       inkscape:export-xdpi="40.020771"
+       inkscape:export-filename="/home/erin/tmp/snake-medallion.png"
+       style="display:inline;fill:#8e8e8e;fill-opacity:1;stroke:#000000;stroke-width:2.99654627;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -248.68847,396.24409 c 52.46304,-3.02205 89.93856,9.35263 114.47169,30.9641 24.53313,21.61147 51.67342,64.34207 44.781844,134.24234 -1.855528,9.74152 -21.954554,47.21644 -32.008724,60.47713 -10.05417,13.26069 -33.24175,44.59143 -90.21719,51.56714 -56.97543,6.9757 -78.53512,-19.37202 -86.60033,-24.91947 -8.06521,-5.54746 -16.84089,-13.46882 -29.98575,-26.83612 -3.4588,-27.20118 -8.28143,-53.64736 -11.84926,-80.83508 -3.27288,0.39685 -6.54256,0.83356 -9.80808,1.31377 -16.68458,2.44123 -33.43334,5.99813 -49.4138,12.19947 -6.73691,2.61478 -13.35568,5.76436 -19.57831,9.70619 l -4e-5,3e-5 c -5.50794,3.48219 -10.70388,7.65941 -15.13511,12.67943 -1e-5,0 -1e-5,2e-5 -3e-5,3e-5 -12.58419,14.34754 -10.09652,25.01602 -6.21449,36.2885 3.58199,10.40124 25.67842,52.9065 75.52074,93.18994 71.49184,46.52128 149.11981,57.88025 211.68752,32.44145 62.567707,-25.4388 99.856636,-66.82054 120.681648,-103.81978 20.825012,-36.99924 28.9511748,-68.13342 29.7351945,-103.12649 0.7840197,-34.99307 -15.8997875,-95.46044 -38.5897565,-127.63263 -22.689969,-32.17218 -43.549953,-54.59765 -81.903386,-76.5444 -32.69232,-18.70733 -81.53734,-28.03579 -113.60826,-25.87961 -5.5535,0.37337 -19.5773,1.29894 -23.66069,2.36268"
+       id="path4814"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czcczzccccccccsczzzzssc" />
+    <path
+       inkscape:export-ydpi="40.020771"
+       inkscape:export-xdpi="40.020771"
+       inkscape:export-filename="/home/erin/tmp/snake-medallion.png"
+       inkscape:connector-curvature="0"
+       inkscape:original-d="M 53.965521,90.636536 H 151.9344 c 9.94201,0 17.94586,8.003857 17.94586,17.945864 v 7.55827 c 0,9.94201 -8.00385,17.94587 -17.94586,17.94587 H 53.965521 c -9.942011,0 -17.945868,-8.00386 -17.945868,-17.94587 v -7.55827 c 0,-9.942007 8.003857,-17.945864 17.945868,-17.945864 z"
+       inkscape:path-effect="#path-effect5672"
+       id="path5670"
+       d="m 46.48741,84.899919 c 16.375647,-5.338419 33.406968,-8.195015 50.406345,-8.68864 21.149685,-0.647213 42.291095,2.37446 62.368955,8.823992 11.51419,3.698656 16.2475,14.86408 12.17342,23.882269 l -3.11174,6.888 c -4.07508,9.0204 -14.31219,13.17644 -22.34846,10.5954 -15.38474,-4.94117 -31.6456,-7.27511 -47.727291,-6.76079 -13.088455,0.44505 -26.094486,2.5914 -38.330478,6.5579 -7.839281,2.54124 -18.056506,-1.48547 -22.282632,-10.42026 l -3.231754,-6.83251 C 30.172159,99.998883 34.807807,88.70744 46.48741,84.899919 Z"
+       style="display:inline;fill:url(#pattern4876-6);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.50034237;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       transform="matrix(-0.98961748,0.17878372,-0.17878372,-0.98961748,-79.070354,788.81959)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:12.00004768;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -102.78947,590.26711 75.196599,37.54746"
+       id="path5674"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/tmp/snake-medallion.png"
+       inkscape:export-xdpi="40.020771"
+       inkscape:export-ydpi="40.020771" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.78397655px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -109.92853,603.82822 71.50641,39.94925 -18.323009,24.94993 -63.793801,-48.76147 z"
+       id="path5677"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/erin/tmp/snake-medallion.png"
+       inkscape:export-xdpi="40.020771"
+       inkscape:export-ydpi="40.020771" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:12.00004768;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -130.38191,632.0923 58.944505,52.2904"
+       id="path5679"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/tmp/snake-medallion.png"
+       inkscape:export-xdpi="40.020771"
+       inkscape:export-ydpi="40.020771" />
+    <path
+       inkscape:export-ydpi="40.020771"
+       inkscape:export-xdpi="40.020771"
+       inkscape:export-filename="/home/erin/tmp/snake-medallion.png"
+       style="display:inline;fill:#930000;fill-opacity:1;stroke:#000000;stroke-width:2.99654627;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.97916667"
+       d="m -76.403185,545.53593 c -15.762478,6.04455 -29.841235,11.92157 -48.718675,19.48302 -3.3027,1.37732 -7.05496,2.95018 -11.02508,4.627 -4.14549,1.75081 -5.96195,16.97428 -5.96195,16.97428 3.99373,0.76562 8.73987,1.4697 13.80915,2.15265 14.60605,2.2267 32.087975,4.15685 43.444316,6.41264 0.461169,12.01892 -5.273277,23.60041 -5.273277,23.60041 -1.34431,1.40389 -18.865849,1.04371 -42.166989,-0.14459 -40.98017,-1.31455 -66.28197,-1.85705 -101.47,-1.41326 -7.55943,0.0911 -13.76343,0.20143 -18.06698,0.23956 -15.51001,0.13739 -27.74441,0.77747 -37.5323,1.43888 v 0 c -10.51729,0.73486 -26.25752,1.98718 -38.50655,3.41945 -3.33715,-27.22719 -6.73128,-54.44756 -10.1831,-81.66091 17.20194,-1.98025 32.35395,-4.64329 46.29458,-8.91601 25.96784,-7.96209 46.50585,-21.19989 61.03397,-41.21237 l 0.001,-5.7e-4 c 0.83872,-1.01042 1.7282,-2.08657 2.65692,-3.19033 2.84767,-3.37308 5.96775,-6.88168 8.56715,-8.93779 3.43565,-2.71758 7.09702,-5.0077 10.93311,-6.81702 3.83588,-1.80915 7.8431,-3.13583 11.96511,-3.92685 4.12162,-0.79099 8.35537,-1.04583 12.64019,-0.71249 4.2849,0.33333 8.41525,1.23884 12.34162,2.65446 3.92674,1.41573 7.64749,3.3408 11.11926,5.71348 3.47209,2.37288 6.6926,5.1915 9.62466,8.39529 2.93226,3.20397 5.57337,6.79009 7.89132,10.69917 2.31804,3.90922 4.31064,8.13747 5.94991,12.62712 1.63731,4.48427 2.80047,8.41578 3.41949,13.46445 0.50811,4.14444 0.30466,5.32055 0.7105,10.8892 3.51601,0.47413 7.8006,0.0921 12.3896,-0.79439 17.26196,-3.08304 37.810189,-9.63689 37.810189,-9.63689 4.444372,-0.0527 9.902731,12.1259 8.648692,20.22106 -0.966686,3.16678 -1.510784,3.83027 -2.346776,4.35165 z"
+       id="path4812"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccscccccccccccsccscccccccc" />
+    <path
+       inkscape:export-ydpi="40.020771"
+       inkscape:export-xdpi="40.020771"
+       inkscape:export-filename="/home/erin/tmp/snake-medallion.png"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.99654627;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -349.73925,479.08658 c 19.29677,6.47919 38.56655,10.02341 56.85716,11.75907 0,0 1e-5,2e-5 1e-5,2e-5 23.06425,2.14899 45.75428,1.35845 64.66267,-0.0297 23.0603,-1.6807 41.2154,-4.3304 48.18321,-3.76018 4.33338,0.35462 9.61425,1.97014 13.148,4.39422 3.53259,2.42332 7.08295,5.93301 9.4921,9.92714 2.41054,3.99651 4.29489,9.49682 5.30263,14.57066 1.00849,5.07751 1.52473,11.84805 0.89074,17.51989 -0.63232,5.65666 -2.20362,12.09478 -4.24495,16.84041 -2.04122,4.74535 -4.83676,9.36316 -7.88315,12.80724 -3.04541,3.44308 -7.06081,6.5279 -10.74628,8.281 -3.68752,1.75409 -8.73712,3.61035 -12.74031,3.28116 -7.11771,-0.58539 -23.94688,0.36121 -45.28578,4.68922 -17.39605,3.51579 -37.78576,9.27529 -57.84045,18.40942 0,0 -1e-5,0 -1e-5,0 -10.43005,4.75249 -20.58165,10.32784 -29.8305,16.90337 2.41049,-7.87669 13.59248,-21.51534 29.29372,-36.43703 17.44705,-16.59932 39.13138,-33.29566 49.99194,-43.15698 -12.13212,-8.97602 -31.51232,-15.32247 -51.81385,-23.14308 -19.88922,-7.69209 -42.14487,-17.19992 -57.4369,-32.85585 z"
+       id="path4816"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="40.020771"
+       inkscape:export-xdpi="40.020771"
+       inkscape:export-filename="/home/erin/tmp/snake-medallion.png"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.99654627;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -142.10697,586.61969 c 2.34266,-2.9354 4.69938,-5.86524 7.06972,-8.78956 0.27323,3.2881 0.54166,6.57606 0.80531,9.86384 1.95829,-3.18549 3.92787,-6.36727 5.9085,-9.54535 0.23219,1.88335 0.46253,3.76666 0.69102,5.64995 0.20716,1.6976 0.41333,3.39505 0.6185,5.09237 1.63719,-3.72283 3.28063,-7.44475 4.93029,-11.16574 0.55937,3.91668 1.11298,7.83252 1.66081,11.74751 1.84123,-4.00351 3.69007,-8.00589 5.5465,-12.00715 0.68654,4.38754 1.36541,8.77398 2.03663,13.15929 2.10512,-4.79992 4.22029,-9.59836 6.34552,-14.39532 0.558,5.17944 1.10691,10.35755 1.64672,15.53429 1.72844,-3.70963 3.46338,-7.41831 5.20482,-11.12603 0.36823,4.00841 0.731277,8.01605 1.089124,12.02294 1.659667,-3.62405 3.325313,-7.24722 4.996936,-10.86951 0.370793,3.91339 0.736506,7.82605 1.097156,11.73796 1.720152,-3.94902 3.446762,-7.89706 5.179904,-11.84414 0.402197,4.08464 0.79873,8.16842 1.189599,12.25137 -14.045589,-1.91212 -28.089409,-3.82399 -42.131469,-5.73559 -4.62938,-0.54786 -9.25798,-1.07532 -13.88559,-1.58113 z"
+       id="path4818"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="40.020771"
+       inkscape:export-xdpi="40.020771"
+       inkscape:export-filename="/home/erin/tmp/snake-medallion.png"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.99654627;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -134.56186,569.0527 c 1.21122,3.47367 2.41063,6.94843 3.59854,10.42425 1.00705,-3.81696 2.01828,-7.63314 3.03367,-11.44852 0.65866,1.08637 1.3156,2.1731 1.97087,3.26018 1.06372,1.78311 2.12451,3.56582 3.1824,5.34807 0.71412,-3.83333 1.42926,-7.66652 2.14548,-11.49956 1.7334,3.03745 3.45863,6.07369 5.17566,9.10874 0.52726,-3.89611 1.05444,-7.79223 1.58154,-11.68839 1.8517,3.03228 3.6948,6.06329 5.52931,9.09302 0.69292,-4.01721 1.3865,-8.03432 2.08079,-12.05133 1.98221,4.83189 3.94808,9.66126 5.89723,14.48826 0.68877,-5.7516 1.376327,-11.50338 2.062656,-17.25534 1.967982,3.16844 3.926435,6.33547 5.875359,9.50111 0.163401,-4.52682 0.323627,-9.05407 0.480661,-13.58183 2.065309,3.70005 4.118543,7.39833 6.15973,11.09482 0.02143,-4.5611 0.03881,-9.12285 0.05184,-13.6852 1.89533,3.62544 3.779558,7.24923 5.652714,10.87138 0.23926,-4.67065 0.475418,-9.34176 0.708504,-14.01331 -15.411013,5.99544 -30.661944,12.01448 -45.752794,18.05711 -3.15454,1.31641 -6.29967,2.64139 -9.43444,3.97598 z"
+       id="path4820"
+       inkscape:connector-curvature="0" />
+    <ellipse
+       ry="26.314358"
+       rx="26.400324"
+       style="display:inline;fill:#930000;fill-opacity:1;stroke:#000000;stroke-width:3.29620099;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="ellipse4822"
+       cx="-384.43814"
+       cy="413.48273"
+       inkscape:export-filename="/home/erin/tmp/snake-medallion.png"
+       inkscape:export-xdpi="40.020771"
+       inkscape:export-ydpi="40.020771"
+       transform="rotate(-22.87728)" />
+    <ellipse
+       ry="16.994843"
+       rx="17.050364"
+       cy="413.48273"
+       cx="-384.43814"
+       id="ellipse4824"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.29620099;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="/home/erin/tmp/snake-medallion.png"
+       inkscape:export-xdpi="40.020771"
+       inkscape:export-ydpi="40.020771"
+       transform="rotate(-22.87728)" />
+    <ellipse
+       ry="8.5288591"
+       rx="8.5567217"
+       style="display:inline;fill:#020202;fill-opacity:1;stroke:#000000;stroke-width:3.29620099;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="ellipse4826"
+       cx="-384.43814"
+       cy="413.48273"
+       inkscape:export-filename="/home/erin/tmp/snake-medallion.png"
+       inkscape:export-xdpi="40.020771"
+       inkscape:export-ydpi="40.020771"
+       transform="rotate(-22.87728)" />
+    <g
+       inkscape:export-ydpi="40.020771"
+       inkscape:export-xdpi="40.020771"
+       inkscape:export-filename="/home/erin/tmp/snake-medallion.png"
+       transform="matrix(1.3786365,0,0,1.3786365,1075.4513,-461.27853)"
+       id="g5687"
+       style="display:inline">
+      <ellipse
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/erin/tmp/path6777.png"
+         cy="732.49402"
+         cx="-811.26324"
+         id="ellipse5681"
+         style="display:inline;fill:#930000;fill-opacity:1;stroke:#000000;stroke-width:2.66803145;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         rx="21.796679"
+         ry="21.725702" />
+      <ellipse
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/erin/tmp/path6777.png"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.66803145;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="ellipse5683"
+         cx="-811.26324"
+         cy="732.49402"
+         rx="14.077148"
+         ry="14.03131" />
+      <ellipse
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/erin/tmp/path6777.png"
+         cy="732.49402"
+         cx="-811.26324"
+         id="ellipse5685"
+         style="display:inline;fill:#020202;fill-opacity:1;stroke:#000000;stroke-width:1.33895111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         rx="7.0646143"
+         ry="7.0416102" />
+    </g>
+    <circle
+       inkscape:export-ydpi="40.020771"
+       inkscape:export-xdpi="40.020771"
+       inkscape:export-filename="/home/erin/tmp/snake-medallion.png"
+       r="180.01247"
+       cy="526.97253"
+       cx="-229.51926"
+       id="circle4828"
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81000018;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <g
+       inkscape:export-ydpi="40.020771"
+       inkscape:export-xdpi="40.020771"
+       inkscape:export-filename="/home/erin/tmp/snake-medallion.png"
+       transform="matrix(1.2676676,-0.52614944,0.36956713,1.6758299,-2538.4416,274.71885)"
+       style="display:inline;fill:#ffffff;fill-opacity:1"
+       id="g5652">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.01313066;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1641.6752,532.94814 -6.2366,53.03636 c -6.491,-0.85842 -13.3398,-1.33543 -20.3153,-1.11731 v 0 c -3.0301,0.0632 -6.0493,0.4409 -11.5127,1.34808 v 0 c -6.0099,1.116 -12.5291,2.80512 -19.7224,4.79478 v 0 c -15.7816,4.39433 -32.2135,9.90414 -48.2701,14.80216 v 0 0 0 c -15.843,4.8487 -30.9324,9.02801 -44.1187,11.29975 v 0 0 0 c -5.2833,0.91019 -10.258,1.49929 -14.8438,1.71312 v 0 c -1.4723,0.0688 -2.8962,0.0905 -4.2689,0.0685 v 0 c -0.3806,-0.006 -0.7514,-0.0195 -1.1127,-0.0393 v 0 0 c -0.096,-0.004 -0.19,-0.009 -0.2818,-0.0159 -0.023,-0.002 -0.047,-0.003 -0.07,-0.005 -0.01,-0.002 -0.013,-0.003 -0.019,-0.005 v -0.0187 c 0.01,-0.0212 0.018,-0.0425 0.028,-0.0638 0.037,-0.0837 0.076,-0.16855 0.1171,-0.25471 v 0 0 c 0.1511,-0.32608 0.3145,-0.65698 0.49,-0.99333 v 0 c 0.6323,-1.21153 1.3422,-2.44096 2.1292,-3.69269 v 0 c 2.4443,-3.88795 5.5027,-7.88899 9.1127,-11.97854 v 0 -10e-6 0 c 8.9953,-10.18748 21.1878,-20.74261 35.4429,-30.79082 v 0 -1e-5 0 c 14.474,-10.19699 30.742,-19.73878 48.0929,-27.44011 v 0 c 7.9524,-3.52996 15.5286,-5.81077 23.7484,-8.20194 l 4.3656,-0.7276 c 0,0 6.7191,-1.22384 14.0725,-1.69403 9.9945,-0.0327 23.1835,-0.47967 33.1727,-0.024 z"
+         id="path5634"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccsccc" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.01313066;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1512.3788,612.33151 c -8.1781,-1.24567 -16.4369,-2.35716 -24.7618,-3.34592 3.5045,-7.5579 7.1315,-15.10015 10.8991,-22.62264"
+         id="path5636"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.01313066;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1531.6516,607.10941 c -9.8909,-2.17514 -19.926,-4.13626 -30.0777,-5.90353 3.9703,-9.12338 8.1309,-18.22667 12.5122,-27.30396"
+         id="path5638"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.01313066;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1547.6886,602.0739 c -5.3023,-1.54655 -10.6909,-3.00821 -16.1419,-4.40342 -5.2969,-1.36213 -10.6362,-2.66371 -16.0137,-3.90766 2.1198,-5.0129 4.3009,-10.01997 6.5484,-15.02034 2.2745,-5.04658 4.6023,-10.08643 7.0113,-15.11626"
+         id="path5640"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.01313066;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1566.5704,596.13066 c -11.6344,-3.78185 -23.8446,-6.9782 -36.3508,-9.81357 5.5286,-11.29339 11.3212,-22.51667 17.7182,-33.62046"
+         id="path5642"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.01313066;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1586.4415,590.38545 c -1.0485,-0.3666 -2.11,-0.72509 -3.1834,-1.07615 -12.3514,-4.01286 -25.4958,-7.13537 -39.0777,-9.68489 6.9601,-11.72978 14.3675,-23.28788 22.6748,-34.5852 0.614,-0.83505 1.233,-1.66869 1.8576,-2.50071"
+         id="path5644"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.01313066;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1603.3056,586.12157 c -7.2301,-3.79673 -15.6183,-6.74988 -24.6477,-9.22763 -6.0072,-1.63957 -12.1685,-3.08504 -18.4477,-4.37012 3.5496,-5.22339 7.2309,-10.38928 11.0902,-15.48724 5.8527,-7.73077 10.4858,-13.77495 17.5299,-20.95804"
+         id="path5646"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.01313066;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1616.6351,584.73927 c -5.6166,-5.64107 -10.2353,-9.3351 -16.4482,-12.03536 v 0 c -6.7747,-2.91042 -14.2847,-5.1978 -22.2069,-7.10535 4.9327,-6.4298 10.0356,-12.69351 15.6813,-18.64775 v 0 c 5.6109,-5.86148 7.567,-9.26994 14.8412,-13.97872"
+         id="path5648"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.01313066;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1634.1731,585.80166 c -5.7904,-6.34676 -14.2726,-12.87876 -19.869,-17.35783 -5.5964,-4.47907 -9.0982,-6.70911 -15.4352,-9.19425 4.6023,-4.74931 9.9564,-9.68082 15.1508,-13.47994 8.4701,-5.70513 16.0352,-8.94119 26.3088,-12.93657"
+         id="path5650"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="czccc" />
+    </g>
+    <g
+       inkscape:export-ydpi="40.020771"
+       inkscape:export-xdpi="40.020771"
+       inkscape:export-filename="/home/erin/tmp/snake-medallion.png"
+       inkscape:path-effect="#path-effect5662"
+       transform="matrix(1.0823928,0.47337512,-0.47337512,1.0823928,-92.701752,675.14739)"
+       id="g5660">
+      <g
+         style="display:inline"
+         id="g5658"
+         transform="translate(1166.1618,-1075.251)">
+        <path
+           inkscape:original-d="m -1366.808,846.97345 h 90.6531 c 11.9685,0 21.6038,9.63527 21.6038,21.60373 v 0.24254 c 0,11.96846 -9.6353,21.60373 -21.6038,21.60373 h -90.6531 c -11.9685,0 -21.6037,-9.63527 -21.6037,-21.60373 v -0.24254 c 0,-11.96846 9.6352,-21.60373 21.6037,-21.60373 z"
+           inkscape:connector-curvature="0"
+           id="path5654"
+           d="m -1372.9596,840.93514 c 18.7281,-5.04421 38.4754,-7.93413 58.8113,-7.40215 15.4034,0.61744 30.2702,3.24799 44.4445,7.19964 13.4901,3.7609 19.4459,16.77022 15.1961,27.85259 l -0.087,0.22646 c -4.2823,11.16721 -16.6567,16.69887 -26.8838,13.79241 -11.4845,-3.26377 -22.9087,-5.37617 -34.1166,-5.64519 -15.0208,-0.6458 -30.4911,1.77761 -45.98,6.0026 -10.4031,2.83768 -22.6977,-2.925 -26.7952,-14.14913 l -0.083,-0.22784 c -4.0737,-11.15887 2.0969,-24.04111 15.4937,-27.64939 z"
+           style="fill:#930000;fill-opacity:1;stroke:#000000;stroke-width:2.50034237;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+        <path
+           inkscape:original-d="m -1365.25,868.57719 h 89.0323"
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path5656"
+           d="m -1365.7509,861.41744 c 16.631,-4.38047 33.7231,-6.86353 50.8833,-6.29269 13.2959,0.44349 26.4301,2.80947 39.2473,6.4093"
+           style="fill:none;stroke:#000000;stroke-width:16;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
+    <path
+       inkscape:export-ydpi="40.020771"
+       inkscape:export-xdpi="40.020771"
+       inkscape:export-filename="/home/erin/tmp/snake-medallion.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5664"
+       d="m -115.08839,448.17349 74.344591,-42.50476"
+       style="fill:none;stroke:#000000;stroke-width:12.61180305;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="40.020771"
+       inkscape:export-xdpi="40.020771"
+       inkscape:export-filename="/home/erin/tmp/snake-medallion.png"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path5666"
+       d="m -107.78341,460.63477 77.690714,-37.49381 11.571961,28.62809 -78.593796,29.10416 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.83421814px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="40.020771"
+       inkscape:export-xdpi="40.020771"
+       inkscape:export-filename="/home/erin/tmp/snake-medallion.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5668"
+       d="m -93.519628,496.74822 81.223683,-25.45124"
+       style="fill:none;stroke:#000000;stroke-width:12.61180305;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       style="display:inline"
+       id="g5695"
+       transform="matrix(1.3786365,0,0,1.3786365,734.97797,-405.87196)"
+       inkscape:export-filename="/home/erin/tmp/snake-medallion.png"
+       inkscape:export-xdpi="40.020771"
+       inkscape:export-ydpi="40.020771">
+      <ellipse
+         ry="21.725702"
+         rx="21.796679"
+         style="display:inline;fill:#930000;fill-opacity:1;stroke:#000000;stroke-width:2.66803145;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="ellipse5689"
+         cx="-811.26324"
+         cy="732.49402"
+         inkscape:export-filename="/home/erin/tmp/path6777.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <ellipse
+         ry="14.03131"
+         rx="14.077148"
+         cy="732.49402"
+         cx="-811.26324"
+         id="ellipse5691"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.66803145;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         inkscape:export-filename="/home/erin/tmp/path6777.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <ellipse
+         ry="7.0416102"
+         rx="7.0646143"
+         style="display:inline;fill:#020202;fill-opacity:1;stroke:#000000;stroke-width:1.33895111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="ellipse5693"
+         cx="-811.26324"
+         cy="732.49402"
+         inkscape:export-filename="/home/erin/tmp/path6777.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+    <path
+       inkscape:export-ydpi="40.020771"
+       inkscape:export-xdpi="40.020771"
+       inkscape:export-filename="/home/erin/tmp/snake-medallion.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5697"
+       d="m -286.00829,656.63747 -39.16455,71.75347"
+       style="fill:none;stroke:#000000;stroke-width:12.00004768;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="40.020771"
+       inkscape:export-xdpi="40.020771"
+       inkscape:export-filename="/home/erin/tmp/snake-medallion.png"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path5699"
+       d="m -297.30383,650.77631 -42.97065,69.27365 -24.45083,-13.76847 52.31249,-67.53534 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.78397655px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="40.020771"
+       inkscape:export-xdpi="40.020771"
+       inkscape:export-filename="/home/erin/tmp/snake-medallion.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5701"
+       d="m -323.59659,627.84403 -53.88642,67.3417"
+       style="fill:none;stroke:#000000;stroke-width:12.00004768;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>
