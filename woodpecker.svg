@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="301.625mm"
-   height="513.5556mm"
-   viewBox="0 0 301.625 513.5556"
+   width="1621.3489mm"
+   height="1461.0168mm"
+   viewBox="0 0 1621.3489 1461.0168"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.1 15371"
@@ -234,9 +234,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.088388348"
-     inkscape:cx="-1417.5457"
-     inkscape:cy="1493.9151"
+     inkscape:zoom="0.0625"
+     inkscape:cx="6364.383"
+     inkscape:cy="3047.414"
      inkscape:document-units="mm"
      inkscape:current-layer="layer6"
      showgrid="false"
@@ -262,7 +262,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -271,7 +271,7 @@
      id="layer6"
      inkscape:label="berries"
      style="display:inline"
-     transform="translate(427.49106,122.17561)">
+     transform="translate(1644.0654,1069.6368)">
     <path
        style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -260.80357,-15.964285 c -39.18534,7.4371344 -89.33791,-16.501463 -85.23362,12.8511899"
@@ -659,7 +659,7 @@
        inkscape:export-xdpi="45.066502"
        inkscape:export-ydpi="45.066502" />
     <rect
-       style="opacity:1;fill:url(#pattern6374);fill-opacity:1.0;fill-rule:nonzero;stroke:#000000;stroke-width:0.068;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       style="opacity:1;fill:url(#pattern6374);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.068;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect6383"
        width="142.56157"
        height="169.12816"
@@ -895,7 +895,7 @@
        inkscape:export-xdpi="45.066502"
        inkscape:export-ydpi="45.066502" />
     <path
-       style="fill:url(#pattern6374);fill-opacity:1.0;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:url(#pattern6374);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -894.84399,-393.26576 c -9.99628,17.08851 -32.58053,70.8969 -23.97563,119.12404 4.6228,-7.4247 8.39723,-14.44725 13.91331,-19.07431 -3.36971,-16.73514 13.60291,-63.95899 18.92131,-85.68148 -1.70208,-2.33174 -6.82666,-5.03481 -8.85899,-14.36825 z"
        id="path6456"
        inkscape:connector-curvature="0"
@@ -1239,7 +1239,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="ssscccsss"
        inkscape:connector-curvature="0"
        id="path6602"
@@ -1248,7 +1248,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="cssscc"
        inkscape:connector-curvature="0"
        id="path6604"
@@ -1257,7 +1257,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
        id="path6606"
@@ -1266,7 +1266,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path6608"
@@ -1275,7 +1275,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path6614"
@@ -1284,7 +1284,7 @@
     <ellipse
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        transform="rotate(-5.7121651)"
        ry="8.4005203"
        rx="9.3265619"
@@ -1295,7 +1295,7 @@
     <ellipse
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        transform="rotate(-5.7121651)"
        style="opacity:1;fill:#020202;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.98383594;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="ellipse6618"
@@ -1306,7 +1306,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path6620"
@@ -1315,7 +1315,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path6622"
@@ -1324,7 +1324,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path6624"
@@ -1333,7 +1333,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path6626"
@@ -1342,7 +1342,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path6628"
@@ -1351,7 +1351,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="ccc"
        inkscape:connector-curvature="0"
        id="path6630"
@@ -1360,7 +1360,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="cccccc"
        inkscape:connector-curvature="0"
        id="path6632"
@@ -1369,7 +1369,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="cccccc"
        inkscape:connector-curvature="0"
        id="path6634"
@@ -1378,7 +1378,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:connector-curvature="0"
        id="path6636"
        d="m -1474.056,-520.88977 -0.2758,22.49645"
@@ -1386,7 +1386,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:connector-curvature="0"
        id="path6638"
        d="m -1457.483,-518.69192 0.014,14.7563"
@@ -1394,7 +1394,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:connector-curvature="0"
        id="path6640"
        d="m -1443.3849,-517.31014 0.856,12.54481"
@@ -1402,7 +1402,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:connector-curvature="0"
        id="path6642"
        d="m -1428.2073,-515.77042 1.0797,10.79405"
@@ -1410,7 +1410,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:connector-curvature="0"
        id="path6644"
        d="m -1530.9967,-495.41689 c -21.9218,2.14335 -44.4084,7.63548 -56.6858,10.88176 -8.6658,2.29135 -4.4841,19.98648 8.0053,19.88158 27.4984,-0.23095 64.4631,-11.71889 73.4586,-4.33986 14.1752,11.62806 36.1584,46.05159 42.9673,51.73297 4.1065,3.42654 11.3652,7.78381 16.103,8.73041 l 13.4963,-24.85288 c -5.2116,-1.53624 -9.8924,-5.15393 -13.0317,-9.97763 -10.7106,-16.45694 -27.464,-42.16101 -37.1124,-47.3054 -11.2605,-6.00394 -29.0367,-6.5269 -47.2006,-4.75095 z m 48.4073,18.91218 c 5.5866,-0.63218 12.1267,2.59505 16.5281,8.71749 l 9.6098,13.36795 c 5.8685,8.16326 5.6472,18.2905 -0.4963,22.70702 l -0.1516,0.10913 c -6.1435,4.41652 -15.8138,1.40043 -21.6824,-6.76282 l -9.6103,-13.36791 c -5.8685,-8.16325 -5.6472,-18.29101 0.4962,-22.70753 l 0.1522,-0.10919 c 1.5359,-1.10413 3.2921,-1.74341 5.1543,-1.95414 z"
@@ -1418,7 +1418,7 @@
     <g
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        transform="rotate(54.287835,-232.14426,-2256.4306)"
        id="g6652">
       <g
@@ -1443,7 +1443,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="cssc"
        inkscape:connector-curvature="0"
        id="path6664"
@@ -1452,7 +1452,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="ccc"
        inkscape:connector-curvature="0"
        id="path6666"
@@ -1461,7 +1461,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="ccc"
        inkscape:connector-curvature="0"
        id="path6668"
@@ -1470,7 +1470,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="ccc"
        inkscape:connector-curvature="0"
        id="path6670"
@@ -1479,7 +1479,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="ccc"
        inkscape:connector-curvature="0"
        id="path6672"
@@ -1488,7 +1488,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="ccc"
        inkscape:connector-curvature="0"
        id="path6674"
@@ -1497,7 +1497,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="cscc"
        inkscape:connector-curvature="0"
        id="path6676"
@@ -1506,7 +1506,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="ccc"
        inkscape:connector-curvature="0"
        id="path6678"
@@ -1515,7 +1515,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="ccc"
        inkscape:connector-curvature="0"
        id="path6680"
@@ -1524,7 +1524,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="ccc"
        inkscape:connector-curvature="0"
        id="path6682"
@@ -1533,7 +1533,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="csc"
        inkscape:connector-curvature="0"
        id="path6684"
@@ -1542,7 +1542,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="cssc"
        inkscape:connector-curvature="0"
        id="path6686"
@@ -1551,7 +1551,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path6688"
@@ -1560,7 +1560,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="cccccc"
        inkscape:connector-curvature="0"
        id="path6690"
@@ -1569,7 +1569,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="cscc"
        inkscape:connector-curvature="0"
        id="path6692"
@@ -1578,7 +1578,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="ccccccc"
        inkscape:connector-curvature="0"
        id="path6694"
@@ -1587,7 +1587,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="cscc"
        inkscape:connector-curvature="0"
        id="path6696"
@@ -1596,7 +1596,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="cscccc"
        inkscape:connector-curvature="0"
        id="path6698"
@@ -1605,7 +1605,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path6700"
@@ -1614,7 +1614,7 @@
     <g
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        transform="rotate(0.05535007,367516.43,-2159637.5)"
        id="g6748">
       <rect
@@ -1642,7 +1642,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="ccccccccccc"
        inkscape:connector-curvature="0"
        id="path6750"
@@ -1651,7 +1651,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="ccccccc"
        inkscape:connector-curvature="0"
        id="path6754"
@@ -1660,7 +1660,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path6762"
@@ -1669,7 +1669,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -1480.5358,-162.99999 c 18.7833,14.5106 5.2031,20.615 16.2083,33.67933 -12.1569,-4.00053 -8.3163,-9.00724 -16.0161,-20.77878 -1.8153,8.67353 -16.3717,7.14505 -19.1582,-3.1161 -2.8374,9.19218 -15.6769,8.23798 -16.9022,-4.11043 -6.5067,10.26189 -16.8824,8.66742 -16.6406,-2.54135 -6.1781,7.60969 -14.2392,3.10482 -12.7417,-4.1295 -5.5633,5.8036 -13.4701,4.18349 -11.7911,-7.3859 -6.3015,6.43262 -16.8033,-0.34755 -14.7061,-4.11595 -5.9157,0 -7.1257,-6.50872 -27.2966,-10.65188 19.567,-12.76439 64.0274,16.75754 82.8972,17.99145"
        id="path6770"
@@ -1678,7 +1678,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path6774"
@@ -1687,7 +1687,7 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path6776"
@@ -1698,13 +1698,13 @@
        d="m -1201.7037,-494.4054 c 21.9218,2.14335 44.4084,7.63548 56.6858,10.88176 8.6658,2.29135 4.4841,19.98648 -8.0053,19.88158 -27.4984,-0.23095 -64.4631,-11.71889 -73.4586,-4.33986 -14.1752,11.62806 -36.1584,46.05159 -42.9673,51.73297 -4.1065,3.42654 -11.3652,7.78381 -16.103,8.73041 l -13.4963,-24.85288 c 5.2116,-1.53624 9.8924,-5.15393 13.0317,-9.97763 10.7106,-16.45694 27.464,-42.16101 37.1124,-47.3054 11.2605,-6.00394 29.0367,-6.5269 47.2006,-4.75095 z m -48.4073,18.91218 c -5.5866,-0.63218 -12.1267,2.59505 -16.5281,8.71749 l -9.6098,13.36795 c -5.8685,8.16326 -5.6472,18.2905 0.4963,22.70702 l 0.1516,0.10913 c 6.1435,4.41652 15.8138,1.40043 21.6824,-6.76282 l 9.6103,-13.36791 c 5.8685,-8.16325 5.6472,-18.29101 -0.4962,-22.70753 l -0.1522,-0.10919 c -1.5359,-1.10413 -3.2921,-1.74341 -5.1543,-1.95414 z"
        id="path6808"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:export-xdpi="45.066502"
        inkscape:export-ydpi="45.066502" />
     <g
        id="g6816"
        transform="matrix(-0.58371362,0.81195961,0.81195961,0.58371362,-803.93138,-749.81807)"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:export-xdpi="45.066502"
        inkscape:export-ydpi="45.066502">
       <g
@@ -1732,7 +1732,7 @@
        id="path6818"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssc"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:export-xdpi="45.066502"
        inkscape:export-ydpi="45.066502" />
     <path
@@ -1741,7 +1741,7 @@
        id="path6820"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:export-xdpi="45.066502"
        inkscape:export-ydpi="45.066502" />
     <path
@@ -1750,7 +1750,7 @@
        id="path6822"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:export-xdpi="45.066502"
        inkscape:export-ydpi="45.066502" />
     <path
@@ -1759,7 +1759,7 @@
        id="path6824"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:export-xdpi="45.066502"
        inkscape:export-ydpi="45.066502" />
     <path
@@ -1768,7 +1768,7 @@
        id="path6826"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:export-xdpi="45.066502"
        inkscape:export-ydpi="45.066502" />
     <path
@@ -1777,7 +1777,7 @@
        id="path6828"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:export-xdpi="45.066502"
        inkscape:export-ydpi="45.066502" />
     <path
@@ -1786,7 +1786,7 @@
        id="path6830"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cscc"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:export-xdpi="45.066502"
        inkscape:export-ydpi="45.066502" />
     <path
@@ -1795,7 +1795,7 @@
        id="path6832"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:export-xdpi="45.066502"
        inkscape:export-ydpi="45.066502" />
     <path
@@ -1804,7 +1804,7 @@
        id="path6834"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:export-xdpi="45.066502"
        inkscape:export-ydpi="45.066502" />
     <path
@@ -1813,7 +1813,7 @@
        id="path6836"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:export-xdpi="45.066502"
        inkscape:export-ydpi="45.066502" />
     <path
@@ -1822,7 +1822,7 @@
        id="path6838"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csc"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:export-xdpi="45.066502"
        inkscape:export-ydpi="45.066502" />
     <path
@@ -1831,7 +1831,7 @@
        id="path6840"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssc"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:export-xdpi="45.066502"
        inkscape:export-ydpi="45.066502" />
     <path
@@ -1840,7 +1840,7 @@
        id="path6842"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:export-xdpi="45.066502"
        inkscape:export-ydpi="45.066502" />
     <path
@@ -1849,7 +1849,7 @@
        id="path6844"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:export-xdpi="45.066502"
        inkscape:export-ydpi="45.066502" />
     <path
@@ -1858,7 +1858,7 @@
        id="path6846"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cscc"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:export-xdpi="45.066502"
        inkscape:export-ydpi="45.066502" />
     <path
@@ -1867,7 +1867,7 @@
        id="path6848"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:export-xdpi="45.066502"
        inkscape:export-ydpi="45.066502" />
     <path
@@ -1876,7 +1876,7 @@
        id="path6850"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cscc"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:export-xdpi="45.066502"
        inkscape:export-ydpi="45.066502" />
     <path
@@ -1885,7 +1885,7 @@
        id="path6852"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cscccc"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:export-xdpi="45.066502"
        inkscape:export-ydpi="45.066502" />
     <path
@@ -1894,7 +1894,7 @@
        id="path6854"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:export-xdpi="45.066502"
        inkscape:export-ydpi="45.066502" />
     <path
@@ -1903,7 +1903,7 @@
        id="path6856"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:export-xdpi="45.066502"
        inkscape:export-ydpi="45.066502" />
     <path
@@ -1912,7 +1912,7 @@
        id="path6858"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:export-xdpi="45.066502"
        inkscape:export-ydpi="45.066502" />
     <path
@@ -1921,7 +1921,7 @@
        id="path6876"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:export-xdpi="45.066502"
        inkscape:export-ydpi="45.066502" />
     <path
@@ -1930,7 +1930,7 @@
        id="path6878"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:export-xdpi="45.066502"
        inkscape:export-ydpi="45.066502" />
     <path
@@ -1938,14 +1938,17 @@
        d="m -1267.7542,-279.97709 c -6.9601,-15.57484 -12.9074,-32.85896 -53.7789,-33.73045 -38.3987,-0.81878 -43.9622,-19.45897 -45.2288,-39.20482 -1.2666,19.74585 -6.8301,38.38604 -45.2288,39.20482 -40.8715,0.87149 -45.3707,18.10862 -52.3308,33.68346 2.6532,-17.02334 -3.0815,-29.08269 -9.65,-40.64866 5.7829,-27.50678 17.1241,-58.74923 17.1241,-58.74923 0.9055,-1.11333 6.3085,-11.31107 6.1322,-18.01121 1.7887,-3.94902 2.8549,-8.52535 5.2712,-13.07356 31.1446,7.79433 65.4199,15.38918 78.6821,29.94436 12.4516,-15.1406 42.3705,-20.23279 79.5055,-28.93287 2.8345,6.54529 3.787,7.49967 5.669,13.09059 -0.1364,5.82676 4.4815,15.63113 5.5866,18.94303 3.3652,10.38037 10.6945,29.01447 17.8966,56.83588 -6.5685,11.56597 -12.3032,23.62532 -9.65,40.64866 z"
        style="fill:url(#pattern6898);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cscsccccccccccc" />
+       sodipodi:nodetypes="cscsccccccccccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        sodipodi:nodetypes="ccccccc"
        inkscape:connector-curvature="0"
        id="path6909"
        d="m -1519.5695,-171.56591 c -8.6653,3.28852 -17.9207,-2.50251 -9.6386,-10.05916 -9.6932,1.56508 -12.07,-8.16762 -5.7993,-12.07359 -8.0394,-0.0246 -12.3205,-6.86672 -2.786,-13.63158 -10.3859,0.58651 -11.3391,-12.40546 -7.1642,-13.48648 -4.0806,-4.28302 -0.2028,-9.64873 -11.1169,-27.11054 22.7387,5.3619 26.2333,50.80619 38.3562,65.31922"
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:export-xdpi="45.066502"
        inkscape:export-ydpi="45.066502" />
     <path
@@ -1954,7 +1957,7 @@
        id="path6921"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:export-xdpi="45.066502"
        inkscape:export-ydpi="45.066502" />
     <path
@@ -1963,7 +1966,7 @@
        id="path6923"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:export-xdpi="45.066502"
        inkscape:export-ydpi="45.066502" />
     <path
@@ -1972,7 +1975,7 @@
        id="path6925"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csc"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:export-xdpi="45.066502"
        inkscape:export-ydpi="45.066502" />
     <path
@@ -1981,7 +1984,7 @@
        id="path6927"
        d="m -1283.5629,-183.61122 c -26.9077,32.09011 -60.0531,52.95421 -82.953,52.95421 -22.8999,0 -56.0453,-20.8641 -82.953,-52.95421"
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:export-xdpi="45.066502"
        inkscape:export-ydpi="45.066502" />
     <path
@@ -1989,14 +1992,17 @@
        style="fill:url(#pattern6939);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -1275.0935,-147.97993 -6.9059,-24.94566 c -26.3421,29.65868 -58.8012,50.04295 -84.5165,50.04295 -25.7153,0 -58.1744,-20.38427 -84.5165,-50.04295 l -6.9059,24.94566 c 31.3677,31.79177 64.5257,51.286355 91.4224,51.286355 26.8967,0 60.0547,-19.494585 91.4224,-51.286355 z"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccsccsc" />
+       sodipodi:nodetypes="ccsccsc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:url(#pattern6941);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -1214.2175,-205.81823 c 1.4315,9.9455 -1.3729,25.04763 -2.1314,37.65913 -12.2583,-0.4148 -24.4109,0.24842 -36.1471,5.15911 l -2.4354,-21.1317 z"
        id="path6931"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:export-xdpi="45.066502"
        inkscape:export-ydpi="45.066502" />
     <path
@@ -2005,13 +2011,13 @@
        id="path6933"
        d="m -1252.496,-162.99999 c -18.7833,14.5106 -5.2031,20.615 -16.2083,33.67933 12.1569,-4.00053 8.3163,-9.00724 16.0161,-20.77878 1.8153,8.67353 16.3717,7.14505 19.1582,-3.1161 2.8374,9.19218 15.6769,8.23798 16.9022,-4.11043 6.5067,10.26189 16.8824,8.66742 16.6406,-2.54135 6.1781,7.60969 14.2392,3.10482 12.7417,-4.1295 5.5633,5.8036 13.4701,4.18349 11.7911,-7.3859 6.3015,6.43262 16.8033,-0.34755 14.7061,-4.11595 5.9157,0 7.1257,-6.50872 27.2966,-10.65188 -19.567,-12.76439 -64.0274,16.75754 -82.8972,17.99145"
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        inkscape:export-xdpi="45.066502"
        inkscape:export-ydpi="45.066502" />
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -1272.9924,-140.955 c -26.9077,32.09011 -65.0041,51.326004 -93.5235,51.73813 -27.4641,0.396875 -66.6158,-19.64802 -93.5235,-51.73813"
        id="path6935"
@@ -2020,19 +2026,978 @@
     <path
        inkscape:export-ydpi="45.066502"
        inkscape:export-xdpi="45.066502"
-       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/eagle.png"
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -1213.4623,-171.56591 c 8.6653,3.28852 17.9207,-2.50251 9.6386,-10.05916 9.6932,1.56508 12.07,-8.16762 5.7993,-12.07359 8.0394,-0.0246 12.3205,-6.86672 2.786,-13.63158 10.3859,0.58651 11.3391,-12.40546 7.1642,-13.48648 4.0806,-4.28302 0.2028,-9.64873 11.1169,-27.11054 -22.7387,5.3619 -26.2333,50.80619 -38.3562,65.31922"
        id="path6937"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -384.46069,-688.12163 c 69.3474,-33.81341 132.5848,-101.89466 184.0953,-152.66437 27.0501,-14.45246 58.8696,-25.75143 72.5903,-49.01721 -26.9116,5.02522 -53.5877,11.97113 -83.4415,7.8577 -7.6051,-1.04787 -13.2296,-18.03863 1.1225,-23.94733 27.0932,-11.15417 59.9217,-27.85249 63.236,-55.37824 -26.9868,28.7448 -58.6219,36.81284 -91.2993,36.2952 41.4683,0.81291 34.9183,-24.5769 16.5464,-25.89644 -30.6498,-2.20141 -19.7555,18.21215 -39.2906,21.82812 -19.7366,-4.43862 -27.8746,1.74752 -34.0911,10.61466 -6.0103,8.57301 -10.2699,17.57197 -17.7195,29.93595 -12.3206,41.80325 -30.8058,55.50032 -51.9171,72.7775 -153.5263,125.6437 -332.256,59.06947 -406.9181,-1.27707 -48.9846,-39.59235 -83.0391,-94.44289 -133.6146,-133.61458 -13.7741,150.52962 109.1103,234.35821 209.2854,270.66875 118.29,42.87666 252.7012,20.44632 311.4159,-8.18264 z"
+       id="path6944"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sccssccscscsscss"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect6946"
+       width="30.427082"
+       height="32.279167"
+       x="-287.6246"
+       y="-920.57758"
+       ry="12.964603"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <rect
+       ry="20.743059"
+       y="-930.26093"
+       x="-296.75241"
+       height="51.645905"
+       width="48.682613"
+       id="rect6948"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -289.87349,-884.85878 -1.1906,38.49688 15.7427,-32.54375"
+       id="path6950"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -258.65269,-881.55149 -31.6177,64.82292 -31.2208,-51.19688"
+       id="path6952"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -203.09019,-894.25149 c 71.1417,-25.41623 62.0247,-41.34742 98.425,-57.81146 40.405402,-18.27556 58.641702,-58.75695 65.749002,-51.59375 8.5816,13.04905 -20.0192,47.93092 -39.0261,57.81147 l -33.337502,17.3302 c 27.108602,-12.82867 70.968402,2.9689 83.079202,7.01146 6.5149,2.17465 4.4593,12.2261 -1.8521,11.90625 -25.829,-1.30896 -52.2578,-5.24777 -81.227102,-18.91771 -3.9048,0.57637 -43.3476,16.62465 -91.8104,34.26354 z"
+       id="path6954"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscscsscc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:#040303;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -147.74669,-956.03262 c -2.599,6.24295 4.4556,7.98181 9.8689,11.88016 -5.1114,-0.9839 -9.8507,-8.28633 -13.3769,-1.40319 -3.5262,6.88314 0.5924,8.88271 3.9289,12.4414 -4.5739,-1.68989 -8.6492,-5.42789 -14.4994,0.3742 -5.8502,5.80209 -3.2156,6.58605 -0.5613,11.22532 -3.7694,-3.64013 -6.6128,-6.05123 -11.4123,-1.77737 -4.7995,4.27386 -4.1045,5.99592 -1.6839,9.82218 -3.1213,-3.8505 -7.1209,-4.15158 -11.2253,-3.08697 17.4484,-11.53556 33.26,-21.82184 38.9613,-39.47573 z"
+       id="path6968"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cczczczccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:#040303;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -184.69679,-880.91651 c 4.4767,-2.4629 10.6565,-2.69356 11.0383,-10.52373 0.2606,4.28519 2.3903,8.66872 7.2496,7.85773 4.8593,-0.81099 7.0506,-3.57055 5.1918,-11.27209 0.9858,4.96275 3.382,10.28473 8.5125,8.6996 5.1305,-1.58513 7.1759,-1.8332 6.4078,-11.50594 1.1756,4.15909 2.622,9.30387 7.6238,8.65286 5.0018,-0.65101 6.0872,-3.84124 5.6595,-11.27211 0.4985,3.58278 1.8149,11.06068 4.0691,10.71082 z"
+       id="path6970"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cczczczcsc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -294.47099,-919.7374 c -14.3918,-14.87695 -33.2877,-25.53134 -55.6589,-32.9276 26.2864,-3.62429 50.4332,-1.83113 65.1068,23.94735 -20.6436,-40.11782 -55.3412,-51.12675 -61.8328,-57.15561 8.9395,-1.90828 30.7764,-18.21074 62.3005,56.5008 -9.9623,-23.01535 -28.6758,-47.32718 -26.6601,-68.56802 22.0863,17.69117 37.5248,39.14355 40.6918,67.53902 -13.6516,-0.0794 -19.9623,4.54691 -23.9473,10.66406 z"
+       id="path6972"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -354.99419,-823.38675 90.2703,45.93028"
+       id="path6976"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6978"
+       d="m -366.03249,-813.3775 88.0253,48.83015"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -392.87969,-793.73319 87.7446,51.35585"
+       id="path6980"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6982"
+       d="m -378.38029,-803.55535 86.0608,50.79458"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -451.06429,-763.89255 52.8526,80.72877"
+       id="path6984"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -411.58859,-677.64466 -53.1331,-81.19649"
+       id="path6986"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -476.78899,-754.91228 47.2399,82.13191"
+       id="path6988"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -438.99699,-689.43126 -89.0542,-6.36101 58.091,-45.93026"
+       id="path6990"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -458.45429,-722.26531 -40.224,3.55469"
+       id="path6992"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -505.69419,-713.23829 54.7702,2.8531"
+       id="path6994"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -594.93809,-658.90462 5.5563,-86.12187"
+       id="path6996"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path6998"
+       d="m -578.33549,-656.45722 2.9104,-87.70937"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -563.05579,-656.19264 -0.463,-87.90781"
+       id="path7000"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7002"
+       d="m -612.66519,-660.7567 6.6808,-86.71719"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -632.70739,-663.46868 12.5016,-86.4526"
+       id="path7004"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -834.03479,-763.42481 c -8.8858,-13.51091 -2.3357,-26.13662 17.3993,-21.04748 -9.8983,-16.0811 1.1317,-23.25827 18.8959,-18.89596 -9.0774,-16.77545 3.6656,-27.76872 19.2702,-19.08305"
+       id="path7006"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -629.54689,-688.4958 c -67.9042,-14.86433 -130.16,-47.18741 -187.0886,-95.97649"
+       id="path7008"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -624.86959,-718.2429 c -63.0897,-14.33894 -119.4204,-46.03318 -172.87,-85.12535"
+       id="path7010"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -893.43539,-852.66612 99.8118,15.62191"
+       id="path7012"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7014"
+       d="m -900.82539,-875.11676 82.6931,13.09622"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -904.19299,-893.26436 67.4454,10.94469"
+       id="path7016"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7018"
+       d="m -905.40909,-908.60564 53.0396,8.79318"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -906.15739,-924.7888 36.2951,5.79975"
+       id="path7020"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7022"
+       d="m -853.60949,-902.05454 14.0797,133.94952"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -873.62799,-922.63429 14.0797,131.42382"
+       id="path7024"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7026"
+       d="m -893.55299,-941.34316 12.6766,116.26964"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -906.25099,-928.90476 c -34.3103,-10.72274 -19.6517,-70.15079 -17.7734,-72.02914 1.6431,-0.8216 51.2366,37.55041 34.9856,63.42306"
+       id="path7028"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path7030"
+       d="m -927.95329,-983.25402 c -17.94,-2.02312 -10.1102,-54.34178 -8.2319,-56.22018 1.6431,-0.8215 41.0403,37.1763 26.9408,49.85916"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -938.61729,-1033.1132 c -17.94,-2.0231 -11.3263,-33.1072 -9.448,-34.9855 1.6431,-0.8216 32.3407,20.1511 18.2412,32.834"
+       id="path7032"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path7034"
+       d="m -906.25089,-946.67818 c -13.3563,-2.30375 -12.0747,-33.10724 -10.1964,-34.98558 1.6431,-0.82156 25.3249,20.52533 15.2478,33.02114"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -924.58559,-996.06959 c -11.4854,-5.67131 -8.2394,-24.22051 -6.3611,-26.09891 1.6431,-0.8215 15.7834,10.8903 11.4125,24.13447"
+       id="path7036"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -384.19749,-801.11816 c -13.944,-68.03541 -4.8171,-124.10809 -0.7937,-182.82708 0.7638,-8.26532 -2.616,-13.07767 -10.3188,-14.2875 -104.8951,-20.96776 -208.0143,-37.05196 -310.0916,-50.27086 -21.1086,2.5307 -20.946,11.3461 -11.1125,23.0188 26.3889,27.30307 130.7328,42.39718 214.3125,131.76248"
+       id="path7038"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -655.13079,-994.26399 c -24.1891,-9.94001 -50.466,-13.16781 -77.7875,-4.7625 -22.2956,6.8591 -32.2708,20.47449 -6.8792,40.74584 7.3014,5.82907 91.1648,64.93758 232.8334,121.17916"
+       id="path7040"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -619.14749,-887.90149 c -61.2467,-31.16871 -85.9523,-25.83561 -121.9729,-26.9875 -33.9779,-1.08656 -19.8411,16.8226 -7.6729,26.45834 67.9999,53.84765 147.3052,72.72041 224.6312,94.72083"
+       id="path7042"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -487.38499,-752.69941 c -38.9036,-13.00546 -76.0471,-59.08484 44.1854,-94.45624"
+       id="path7044"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -484.73909,-832.07441 c -32.9485,16.81178 -61.4394,-74.67741 42.0687,-86.78333"
+       id="path7046"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -506.69959,-898.48482 c -57.4619,-55.12356 17.538,-72.88613 64.0292,-98.68958"
+       id="path7048"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -423.09119,-990.03065 c -12.6658,73.32344 -14.5832,144.69265 -3.9688,213.78333"
+       id="path7050"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -436.32039,-771.22024 c -5.9302,-72.30269 -9.1153,-143.91911 -1.0583,-212.725 -25.0018,10.54878 -45.542,22.18393 -53.9484,29.9699 -8.6956,8.05367 -11.7095,38.88876 14.5708,32.41308 7.8425,-1.93246 29.9204,-6.93433 35.3955,-12.63675"
+       id="path7052"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccssc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect7056"
+       width="22.45064"
+       height="131.52333"
+       x="-438.38495"
+       y="-937.14636"
+       ry="34.611443"
+       rx="11.22532"
+       transform="rotate(0.99506025)"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -413.08529,-834.23788 1.3096,-85.6866"
+       id="path7060"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <ellipse
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path7062"
+       cx="-468.5571"
+       cy="-944.62018"
+       rx="10.57051"
+       ry="10.664055"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <ellipse
+       ry="3.1192274"
+       rx="3.0918655"
+       cy="-944.62018"
+       cx="-468.5571"
+       id="ellipse7064"
+       style="opacity:1;fill:#040303;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.87749755;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <ellipse
+       ry="10.664055"
+       rx="10.57051"
+       cy="-869.78473"
+       cx="-473.23434"
+       id="ellipse7066"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <ellipse
+       style="opacity:1;fill:#040303;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.87749755;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="ellipse7068"
+       cx="-473.23434"
+       cy="-869.78473"
+       rx="3.0918655"
+       ry="3.1192274"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <ellipse
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="ellipse7070"
+       cx="-470.80209"
+       cy="-795.13635"
+       rx="10.57051"
+       ry="10.664055"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <ellipse
+       ry="3.1192274"
+       rx="3.0918655"
+       cy="-795.13635"
+       cx="-470.80209"
+       id="ellipse7072"
+       style="opacity:1;fill:#040303;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.87749755;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -443.20649,-903.46068 c -16.1081,9.13242 -40.4923,6.30685 -51.4495,22.26353 -8.2258,11.97898 -4.4379,27.79912 8.6061,32.92761 8.2996,3.26311 28.4538,-4.77381 43.2175,-12.34783"
+       id="path7074"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       sodipodi:nodetypes="cssc"
+       inkscape:connector-curvature="0"
+       id="path7076"
+       d="m -441.89689,-829.93483 c -18.9144,8.94532 -45.7308,18.46761 -50.327,23.38606 -9.9215,10.61714 -6.683,32.85051 6.361,37.979 8.2996,3.26311 32.0085,-12.44444 46.7722,-20.01846"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -587.63899,-812.3485 c -5.6239,-14.61149 -37.8366,-22.21075 -50.8881,-16.27672"
+       id="path7078"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -654.61679,-835.5475 c 31.0014,-11.02667 71.3575,-0.004 87.7446,29.18583"
+       id="path7080"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -543.86019,-799.62649 c -30.5988,-46.84329 -67.4291,-61.19807 -132.2718,-44.90127"
+       id="path7082"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path7084"
+       d="m -581.17299,-868.84797 c -3.8823,-15.16745 -34.9235,-28.1236 -48.5777,-23.75145"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path7086"
+       d="m -643.00559,-900.09332 c 32.0754,-7.33765 65.3814,7.45431 78.2541,38.35538"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path7088"
+       d="m -546.51789,-854.15208 c -24.9297,-50.09085 -48.6569,-64.54005 -114.9573,-55.9131"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -532.09819,-847.47135 c -17.7198,-70.6622 -72.9985,-83.39161 -145.1859,-70.99435"
+       id="path7090"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -558.73909,-942.58828 c -3.8823,-15.16745 -31.5559,-30.92993 -45.2101,-26.55778"
+       id="path7092"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -617.67179,-977.01414 c 32.0754,-7.33765 65.3814,9.41874 70.9576,43.12614"
+       id="path7094"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -527.17089,-930.41809 c -24.9297,-50.09085 -45.0087,-64.6336 -111.3091,-56.00665"
+       id="path7096"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path7098"
+       d="m -523.88299,-946.56218 c -32.3127,-57.00472 -59.0604,-60.09912 -131.2478,-47.70181"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -697.64709,-854.63056 23.5731,-54.62987"
+       id="path7100"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7102"
+       d="m -706.25319,-859.68195 22.2502,-51.98404"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -716.16889,-865.29461 20.5304,-47.55227"
+       id="path7104"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7106"
+       d="m -725.71039,-871.09436 18.546,-42.72362"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -735.62609,-879.70044 14.908,-34.91841"
+       id="path7108"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7110"
+       d="m -744.79339,-885.12601 13.1882,-29.49445"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -750.21899,-890.1774 10.9392,-24.40122"
+       id="path7112"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7114"
+       d="m -755.83169,-894.10626 9.2856,-20.49862"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7116"
+       d="m -730.83409,-875.45759 38.6082,9.1519"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -755.83169,-894.10626 69.4055,15.63981"
+       id="path7118"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7120"
+       d="m -761.75109,-904.91028 78.6925,17.0894"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -754.25039,-913.8111 75.1207,15.70034"
+       id="path7122"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7124"
+       d="m -689.78939,-926.84679 29.0632,-68.71893"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -698.39549,-931.89818 28.534,-67.06529"
+       id="path7126"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7128"
+       d="m -708.31119,-937.51084 27.6741,-63.95646"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -717.85269,-943.31059 26.0205,-59.78921"
+       id="path7130"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7132"
+       d="m -728.56219,-950.26302 23.044,-53.10848"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -736.93569,-957.34224 20.0007,-45.32066"
+       id="path7134"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7136"
+       d="m -742.89049,-960.27696 17.8184,-41.13614"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -747.97399,-966.32249 14.3788,-32.33872"
+       id="path7138"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -723.70399,-947.2108 39.3358,8.68888"
+       id="path7140"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7142"
+       d="m -747.97399,-966.32249 69.4055,15.63981"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -754.22419,-977.65568 79.0233,17.61857"
+       id="path7144"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7146"
+       d="m -751.15519,-988.67316 79.8832,18.34617"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -671.17109,-1001.063 17.4216,-40.2762"
+       id="path7148"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7150"
+       d="m -680.70319,-1005.1222 16.6278,-37.2996"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -690.94959,-1009.2796 15.2387,-35.4476"
+       id="path7152"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7154"
+       d="m -700.75569,-1014.0872 13.9819,-32.1403"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -707.29799,-1018.063 12.5929,-28.7007"
+       id="path7156"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7158"
+       d="m -713.35639,-1023.687 11.3361,-24.4013"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -718.25289,-1027.1509 8.095,-20.7632"
+       id="path7160"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7164"
+       d="m -737.36819,-997.24315 71.1519,15.76649"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -716.51409,-1025.4848 51.603,11.5662"
+       id="path7166"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7168"
+       d="m -722.90579,-1037.8489 61.3623,14.5758"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -716.26499,-1046.0883 58.6504,12.5254"
+       id="path7170"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -716.93499,-1002.6629 54.0863,12.39307"
+       id="path7172"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7174"
+       d="m -752.33959,-971.41572 9.8148,-23.27674"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="body"
      style="display:inline"
-     transform="translate(427.49106,122.17561)">
+     transform="translate(1644.0654,1069.6368)">
     <path
        style="display:inline;fill:#ece2cd;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -339.03139,-37.888717 c -1.12199,-3.401103 55.47895,-6.916394 72.56368,-9.153983 l 17.37251,51.6498366 c -14.23476,-5.4278665 -83.78079,14.0648404 -84.59081,8.8198944 -0.91916,-5.9516268 69.47564,-25.264143 68.59215,-29.689846 -1.86415,-6.056356 -71.94914,-15.598492 -73.93753,-21.625902 z"
@@ -2061,7 +3026,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer9"
-     inkscape:label="leg borders">
+     inkscape:label="leg borders"
+     transform="translate(1216.5743,947.46129)">
     <path
        transform="translate(427.49105,122.17561)"
        style="display:inline;fill:none;stroke:#2c2626;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -2082,13 +3048,13 @@
      id="layer7"
      inkscape:label="trace"
      style="display:none"
-     transform="translate(427.49106,122.17561)" />
+     transform="translate(1644.0654,1069.6368)" />
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="red crest"
      style="display:inline"
-     transform="translate(427.49106,122.17561)">
+     transform="translate(1644.0654,1069.6368)">
     <path
        style="display:inline;fill:#80000f;fill-opacity:1;stroke:#404040;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -231.98288,-63.494791 c 32.31843,-11.235907 37.59506,-16.127367 45.64062,-28.631696 16.37398,2.197876 19.6144,17.458021 13.04018,25.418899 -8.71015,10.547326 -21.19817,15.654513 -33.3564,17.953868 z"
@@ -2101,7 +3067,7 @@
      id="layer5"
      inkscape:label="white stripe"
      style="display:inline"
-     transform="translate(427.49106,122.17561)">
+     transform="translate(1644.0654,1069.6368)">
     <path
        sodipodi:nodetypes="sccssccs"
        inkscape:connector-curvature="0"
@@ -2114,7 +3080,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(427.49106,122.17561)">
+     transform="translate(1644.0654,1069.6368)">
     <path
        style="fill:none;fill-opacity:1;stroke:#2c2626;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -209.49915,-35.496227 c 13.57882,2.654353 22.6847,31.6890077 8.44768,49.918724 -10.29928,13.187659 -56.68603,37.239471 -75.76855,30.514685"
@@ -2498,7 +3464,7 @@
      id="layer4"
      inkscape:label="eye"
      style="display:inline"
-     transform="translate(427.49106,122.17561)">
+     transform="translate(1644.0654,1069.6368)">
     <path
        style="fill:#404040;fill-opacity:1;stroke:#000000;stroke-width:1.98282111;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -265.05943,-47.431909 c 25.79606,-5.225238 22.45125,-14.990813 35.99242,-17.029786 13.84308,-2.084434 17.69422,10.834886 37.01282,18.638156 -19.8018,7.582582 -22.04838,16.016862 -36.08518,17.408223 -8.25022,0.817783 -27.53457,-12.900984 -36.92006,-19.016593 z"
