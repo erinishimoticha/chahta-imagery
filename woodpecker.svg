@@ -21,6 +21,96 @@
      id="defs2">
     <pattern
        inkscape:collect="always"
+       xlink:href="#pattern6804"
+       id="pattern6941"
+       patternTransform="matrix(-0.26326953,-0.02633425,-0.02633425,0.26326953,-2765.936,-572.04588)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern6802"
+       id="pattern6939"
+       patternTransform="matrix(-0.26326953,-0.02633425,-0.02633425,0.26326953,-2765.936,-572.04588)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern6792"
+       id="pattern6898"
+       patternTransform="matrix(-0.26326953,-0.02633425,-0.02633425,0.26326953,-2766.428,-572.04588)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern6790"
+       id="pattern6870"
+       patternTransform="matrix(-0.26458333,0,0,0.26458333,-4297.4053,-83.725498)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern6788"
+       id="pattern6868"
+       patternTransform="matrix(-0.26326953,-0.02633425,-0.02633425,0.26326953,-2765.6045,-571.03439)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern6786"
+       id="pattern6866"
+       patternTransform="matrix(-0.26326953,-0.02633425,-0.02633425,0.26326953,-2765.6045,-571.03439)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern6784"
+       id="pattern6864"
+       patternTransform="matrix(-0.26326953,-0.02633425,-0.02633425,0.26326953,-2765.6045,-571.03439)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern6782"
+       id="pattern6862"
+       patternTransform="matrix(-0.26326953,-0.02633425,-0.02633425,0.26326953,-2765.6045,-571.03439)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern6778"
+       id="pattern6860"
+       patternTransform="matrix(-0.26326953,-0.02633425,-0.02633425,0.26326953,-2765.6045,-571.03439)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern6572"
+       id="pattern6804"
+       patternTransform="matrix(0.26326953,-0.02633425,0.02633425,0.26326953,32.904147,-572.04588)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern6574"
+       id="pattern6802"
+       patternTransform="matrix(0.26326953,-0.02633425,0.02633425,0.26326953,32.904147,-572.04588)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern6584"
+       id="pattern6792"
+       patternTransform="matrix(0.26326953,-0.02633425,0.02633425,0.26326953,32.904147,-572.04588)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern6374"
+       id="pattern6790"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,1564.7049,-84.736991)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern6588"
+       id="pattern6788"
+       patternTransform="matrix(0.26326953,-0.02633425,0.02633425,0.26326953,32.904147,-572.04588)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern6590"
+       id="pattern6786"
+       patternTransform="matrix(0.26326953,-0.02633425,0.02633425,0.26326953,32.904147,-572.04588)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern6592"
+       id="pattern6784"
+       patternTransform="matrix(0.26326953,-0.02633425,0.02633425,0.26326953,32.904147,-572.04588)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern6594"
+       id="pattern6782"
+       patternTransform="matrix(0.26326953,-0.02633425,0.02633425,0.26326953,32.904147,-572.04588)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern6503"
+       id="pattern6778"
+       patternTransform="matrix(0.26326953,-0.02633425,0.02633425,0.26326953,32.904127,-572.04588)" />
+    <pattern
+       inkscape:collect="always"
        xlink:href="#pattern6374"
        id="pattern6594"
        patternTransform="matrix(0.26326953,-0.02633425,0.02633425,0.26326953,614.98748,-564.63755)" />
@@ -38,11 +128,6 @@
        inkscape:collect="always"
        xlink:href="#pattern6374"
        id="pattern6588"
-       patternTransform="matrix(0.26326953,-0.02633425,0.02633425,0.26326953,614.98748,-564.63755)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern6374"
-       id="pattern6586"
        patternTransform="matrix(0.26326953,-0.02633425,0.02633425,0.26326953,614.98748,-564.63755)" />
     <pattern
        inkscape:collect="always"
@@ -150,8 +235,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.088388348"
-     inkscape:cx="3729.7988"
-     inkscape:cy="934.81917"
+     inkscape:cx="-1417.5457"
+     inkscape:cy="1493.9151"
      inkscape:document-units="mm"
      inkscape:current-layer="layer6"
      showgrid="false"
@@ -161,8 +246,8 @@
      inkscape:window-x="96"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:measure-start="9747.96,1752.32"
-     inkscape:measure-end="9747.86,1753.21"
+     inkscape:measure-start="-3539.42,1944.19"
+     inkscape:measure-end="-3539.78,1843.78"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -389,43 +474,64 @@
        d="m -820.70587,-512.16746 c -9.12156,-9.04709 -7.37171,-32.28864 20.43951,-32.50412 60.12814,-0.46589 49.84639,35.75981 45.42503,70.66516 -2.76326,21.81516 -8.88517,47.07268 32.17007,58.45341 -21.03779,2.91164 -46.23109,1.78515 -62.02816,15.2296 -13.10284,-17.62916 -36.52871,-10.26981 -62.99728,-24.53418 24.09094,-1 31.94834,-7.8494 38.0131,-29.74944 5.11529,-18.4715 9.89107,-36.81782 2.75398,-43.89664 z"
        id="path4734"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ssscccsss" />
+       sodipodi:nodetypes="ssscccsss"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -793.263,-408.86793 c -6.765,-16.75297 1.52535,-35.8614 2.69782,-53.85621 2.718,-18.25327 -1.93183,-35.28634 -14.50327,-51.00749 -5.58188,-14.0765 1.47579,-17.42269 10.49892,-19.10033 30.13968,0.13502 33.34838,19.11931 32.07651,40.60066 -3.69309,28.05071 -14.35842,57.81943 -8.9334,83.6234"
        id="path4736"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccc" />
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -781.75816,-402.87388 c 2.19869,-34.13541 -0.68322,-78.49432 10.12428,-103.67288 -2.92682,3.61786 -6.86569,5.63342 -11.579,6.42284 7.27574,11.38496 3.23795,26.06708 3.48231,39.5124"
        id="path4738"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -758.88675,-412.45513 c -3.21701,-16.18294 0.37716,-23.66394 2.43436,-32.81671"
        id="path4740"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -812.47635,-447.11319 c 5.6609,9.81651 6.18487,22.61751 8.49141,34.38286"
        id="path4742"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -821.20334,-432.0144 c 2.20673,5.31892 4.12762,10.66644 3.2255,16.29634"
        id="path4744"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -748.86977,-429.27838 c -3.47873,6.95336 -1.85797,11.38801 -2.26567,16.28432"
        id="path4746"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <ellipse
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4748"
@@ -433,7 +539,10 @@
        cy="-593.55914"
        rx="9.3265619"
        ry="8.4005203"
-       transform="rotate(-5.7121651)" />
+       transform="rotate(-5.7121651)"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <ellipse
        ry="2.7549112"
        rx="3.0586023"
@@ -441,82 +550,114 @@
        cx="-733.71167"
        id="ellipse4750"
        style="opacity:1;fill:#020202;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.98383594;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       transform="rotate(-5.7121651)" />
+       transform="rotate(-5.7121651)"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -760.46971,-534.61249 c 2.53654,-5.41308 -21.32965,-31.66492 -21.94406,-17.34891"
        id="path4752"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -778.7804,-543.55001 c -1.66578,-9.1515 -15.14264,-25.56611 -21.56221,-13.5315"
        id="path4754"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -792.48366,-544.97129 c -2.62423,-5.86222 -15.29955,-25.4984 -22.52312,-12.50473"
        id="path4756"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -805.91044,-544.95776 c -2.97068,-4.00163 -14.6077,-25.39197 -23.16809,-10.97773"
        id="path4758"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -814.98004,-542.58808 c -2.78485,-1.96386 -19.1859,-26.56339 -23.77355,-9.05584"
        id="path4760"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -820.31116,-538.73103 c -26.31213,-21.27218 -26.14519,-15.23481 -27.53836,-10.80649 l 25.56391,13.66304"
        id="path4762"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -804.09214,-481.58866 c -21.98836,-6.80093 -65.08044,-1.11272 -97.62066,-1.66908 22.72746,-20.01688 44.82588,-9.97918 67.23881,-14.96877 5.19694,-2.64238 7.39678,-5.5421 1.2108,-9.16183 -23.98767,-3.18456 -49.08249,-5.1061 -73.62374,-7.65915 25.57009,-24.26885 53.86503,-9.33916 80.87627,-12.87614"
        id="path4764"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccc" />
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -899.68568,-485.58774 c -14.37315,-4.55842 -26.84849,-4.50563 -39.42485,-4.6983 -11.16095,-6.22252 -17.16006,-11.03524 -19.99583,-16.48017 10.86989,1.10201 21.26132,3.37056 32.63244,3.25049 -3.49059,-2.89582 -4.76004,-6.2978 -5.50262,-9.81983 18.8507,3.18495 22.84099,3.09674 37.4282,-0.28042"
        id="path4766"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccc" />
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -891.97263,-513.48144 -0.27581,22.49645"
        id="path4768"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -875.3997,-511.28359 0.0136,14.7563"
        id="path4770"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -861.30155,-509.90181 0.85598,12.54481"
        id="path4772"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -846.12397,-508.36209 1.0797,10.79405"
        id="path4774"
-       inkscape:connector-curvature="0" />
-    <rect
-       style="stroke:none;fill:url(#pattern6374)"
-       width="9.3537509"
-       height="9.3537509"
-       x="2146.7882"
-       y="-77.328658"
-       id="rect6381" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <rect
        style="opacity:1;fill:url(#pattern6374);fill-opacity:1.0;fill-rule:nonzero;stroke:#000000;stroke-width:0.068;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect6383"
@@ -528,10 +669,16 @@
        style="fill:url(#pattern6503);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -948.91333,-488.00856 c -21.92187,2.14335 -44.4084,7.63548 -56.68587,10.88176 -8.6658,2.29135 -4.4841,19.98648 8.00533,19.88158 27.49839,-0.23095 64.46311,-11.71889 73.45856,-4.33986 14.17523,11.62806 36.15844,46.05159 42.96733,51.73297 4.10656,3.42654 11.36521,7.78381 16.10302,8.73041 l 13.49627,-24.85288 c -5.2116,-1.53624 -9.89233,-5.15393 -13.03172,-9.97763 -10.71059,-16.45694 -27.46395,-42.16101 -37.11238,-47.3054 -11.2605,-6.00394 -29.03668,-6.5269 -47.20054,-4.75095 z m 48.40724,18.91218 c 5.58666,-0.63218 12.12672,2.59505 16.5281,8.71749 l 9.6098,13.36795 c 5.86851,8.16326 5.64722,18.2905 -0.49625,22.70702 l -0.15165,0.10913 c -6.14346,4.41652 -15.81382,1.40043 -21.68234,-6.76282 l -9.6103,-13.36791 c -5.8685,-8.16325 -5.64726,-18.29101 0.4962,-22.70753 l 0.15216,-0.10919 c 1.53587,-1.10413 3.29206,-1.74341 5.15428,-1.95414 z"
        id="path6385"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <g
        id="g6400"
-       transform="rotate(54.287835,51.672489,-1685.0545)">
+       transform="rotate(54.287835,51.672489,-1685.0545)"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502">
       <g
          id="g6501">
         <rect
@@ -555,10 +702,16 @@
        style="fill:url(#pattern6412);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -634.01388,-460.45584 c -14.14189,1.51488 -26.58885,5.86515 -33.39601,10.84972 -8.82194,6.45989 -19.52718,13.55319 -27.95995,21.98702 -4.0694,4.06988 -22.49732,9.52799 -27.30137,12.06608 l 22.47847,25.7758 c 4.45645,-1.86628 21.91865,-13.29233 26.12662,-16.59357 7.749,-6.07932 18.94878,-16.50313 33.15952,-25.04619 9.97158,-5.99462 42.92181,-11.36783 57.80482,11.95036 0,0 19.65886,-7.2748 18.5247,-9.58704 -13.63225,-27.79234 -44.22734,-34.1026 -69.4368,-31.40218 z m -20.02774,6.55954 c 5.3748,-0.6322 10.3068,1.07514 12.92517,5.01298 l 0.10333,0.15585 c 4.18938,6.30057 0.82213,15.85418 -7.54983,21.4209 l -13.7097,9.11632 c -8.37198,5.56672 -18.48417,4.97572 -22.67357,-1.32483 l -0.10383,-0.1558 c -4.1894,-6.30057 -0.82215,-15.85418 7.54983,-21.4209 l 13.70973,-9.1158 c 3.13951,-2.08753 6.524,-3.30939 9.74888,-3.68872 z"
        id="path6402"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <g
        id="g6418"
-       transform="rotate(26.379123,685.70484,-3506.148)">
+       transform="rotate(26.379123,685.70484,-3506.148)"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502">
       <g
          id="g6410"
          transform="matrix(-0.5,0.8660254,0.8660254,0.5,1266.747,-496.50939)">
@@ -584,237 +737,357 @@
        d="m -997.56581,-456.96611 c -2.76429,3.00258 -5.84799,8.07973 -5.76139,10.07142 0.5194,11.9429 9.17192,13.29322 20.18923,5.4074 7.17904,-5.13852 10.01842,-12.13837 14.84573,-18.87705"
        id="path6420"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cssc" />
+       sodipodi:nodetypes="cssc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -974.00712,-451.70773 c -2.68995,11.11652 9.91487,15.67364 19.37012,4.73724 l 13.0773,-15.87982"
        id="path6422"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -954.637,-446.97049 c -5.4272,14.4596 11.46792,19.00217 19.98451,8.0602 l 16.726,-17.937"
        id="path6424"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -936.13242,-437.72814 c -4.69165,16.85691 15.71392,20.54732 22.15352,17.52637 l 13.62659,-12.26833"
        id="path6426"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -913.9789,-420.20177 c 0.68109,16.97467 11.12981,18.49044 22.45143,18.62471 l 8.59104,-9.03831"
        id="path6428"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -891.52747,-401.57706 c 3.89306,10.38129 10.55648,15.75004 22.49779,11.56924 l 5.66906,-13.09059"
        id="path6430"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -992.28764,-437.09366 c -1.05479,3.50893 -4.02396,6.54176 -2.3825,12.83581 2.15131,8.24911 12.51229,15.99788 22.04147,3.2479 l 9.58668,-19.76117"
        id="path6432"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cscc" />
+       sodipodi:nodetypes="cscc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -971.25363,-423.79122 c -4.98671,11.54443 5.79009,20.22505 16.63609,8.03049 l 16.35366,-18.83986"
        id="path6434"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -952.87982,-417.79294 c -8.91927,18.89478 21.74803,20.6192 27.72247,14.59721 l 11.17845,-17.00604"
        id="path6436"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -923.58577,-405.73074 c -3.4103,19.17527 22.06293,20.64006 27.1254,15.92844 l 4.9329,-11.77476"
        id="path6438"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -894.844,-393.26577 c 2.29628,13.28225 17.21657,18.81514 21.57949,15.43294 4.03337,-3.12672 3.17433,-7.73108 4.23481,-12.17499"
        id="path6440"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="csc" />
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -1008.6263,-463.52271 c -9.3533,6.13409 -25.1275,25.68843 -23.7593,32.29075 0.6584,3.17674 15.4745,17.85286 19.2456,18.2836 0,0 13.64836,-0.89972 19.21849,-8.56999"
        id="path6442"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cssc" />
+       sodipodi:nodetypes="cssc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:url(#pattern6594);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -1032.3724,-432.42984 c -18.1065,42.50251 -17.6286,63.28031 -26.4431,89.19669 24.5286,-20.80022 40.8609,-44.10667 49.664,-69.71533 l -3.9885,1.2e-4 c -12.5578,-8.73089 -16.4696,-14.31524 -19.2324,-19.48148 z"
        id="path6444"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:url(#pattern6592);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -998.84456,-417.56915 c -17.05484,58.12676 -33.57724,71.04141 -41.33024,115.81372 0.071,17.78217 9.6587,11.09885 17.5077,8.88488 -7.4421,-18.45164 27.46565,-80.74573 41.19848,-121.11861 z"
+       d="m -998.84456,-416.37852 c -17.05484,58.12676 -33.57724,69.85078 -41.33024,114.62309 0.071,17.78217 9.6587,11.09885 17.5077,8.88488 -7.4421,-18.45164 27.46565,-80.74573 41.19848,-121.11861 -4.40627,0.29867 -8.74149,-0.1843 -12.45289,-7.52919 z"
        id="path6446"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -1022.6671,-292.87055 c 27.09931,-15.08728 29.88282,-59.83942 36.19731,-86.05087 1.33754,-5.55217 6.17095,-18.68628 21.65339,-21.44396 l 10.31978,-15.12516"
        id="path6448"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cscc" />
+       sodipodi:nodetypes="cscc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:url(#pattern6590);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -964.8164,-400.36538 c -19.10026,64.16994 -34.15501,92.35564 -38.9207,135.91434 7.153,10.33767 19.77443,-0.0572 22.35142,-5.16071 7.60526,-50.49679 25.95174,-107.14882 34.66908,-131.89935 -2.57787,-1.0567 -4.77122,-2.46676 -6.05535,-4.71237 -1.92077,-2.9544 -1.86807,-6.1062 -1.72467,-9.26707 z"
+       d="m -964.8164,-400.36538 c -19.10026,64.16994 -34.15501,92.35564 -38.9207,135.91434 7.153,10.33767 19.77443,-0.0572 22.35142,-5.16071 7.60526,-50.49679 25.95174,-107.14882 34.66908,-131.89935 -2.57787,-1.0567 -4.77122,-2.46676 -6.05535,-4.71237 0,0 -2.52221,-3.82718 -3.31217,-6.22436 z"
        id="path6450"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -981.38568,-269.61175 c 21.91678,-14.85256 25.05855,-42.08795 28.83933,-70.55723 0.80424,-6.05596 3.6735,-27.79574 17.21694,-33.89651 0.0185,-10.20348 4.43637,-19.76326 10.17206,-29.13024"
+       d="m -981.38568,-269.61175 c 21.91678,-14.85256 25.05855,-42.08795 28.83933,-70.55723 0.80424,-6.05596 3.53318,-23.35238 16.37504,-33.89651 1.7036,-10.45235 5.27827,-19.76326 11.01396,-29.13024"
        id="path6452"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cscc" />
+       sodipodi:nodetypes="cscc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:url(#pattern6588);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -935.32941,-374.06549 c -4.8244,3.48138 -14.14925,81.82844 -17.63658,92.1714 -2.43088,7.20967 9.37173,10.4109 16.5599,7.38428 5.23002,-35.88132 10.76772,-68.68657 16.22781,-102.26777 -4.11695,-2.09582 -9.01973,-4.49097 -13.84821,-6.85782 l -1.30292,9.56991"
+       d="m -936.17131,-374.06549 c -4.8244,3.48138 -13.30735,81.82844 -16.79468,92.1714 -2.43088,7.20967 9.37173,10.4109 16.5599,7.38428 5.23002,-35.88132 0.57094,-63.33139 23.09665,-114.37509 -4.11695,-2.09582 -12.52545,-4.95399 -10.27633,-16.84584 -3.98453,5.71004 -10.92052,18.11894 -12.58554,31.66525"
        id="path6454"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cscccc" />
+       sodipodi:nodetypes="cscccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
-       style="fill:url(#pattern6586);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -904.88217,-372.72364 c -5.61541,31.73622 -22.54235,50.35478 -13.93745,98.58192 4.6228,-7.4247 8.00035,-14.77798 13.91331,-19.07431 -3.36971,-16.73514 9.50187,-45.43816 14.82027,-67.16065 l -10.83341,6.00286 z"
+       style="fill:url(#pattern6374);fill-opacity:1.0;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -894.84399,-393.26576 c -9.99628,17.08851 -32.58053,70.8969 -23.97563,119.12404 4.6228,-7.4247 8.39723,-14.44725 13.91331,-19.07431 -3.36971,-16.73514 13.60291,-63.95899 18.92131,-85.68148 -1.70208,-2.33174 -6.82666,-5.03481 -8.85899,-14.36825 z"
        id="path6456"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccc" />
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:url(#pattern6584);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -874.76404,-372.01364 c 0,0 -11.34124,31.24245 -17.12412,58.74923 6.56845,11.56597 12.3032,23.62532 9.64997,40.64866 6.96013,-15.57484 11.45933,-32.81197 52.33087,-33.68346 38.3987,-0.81878 39.74298,-19.59126 41.0096,-39.33711 6.72297,45.67184 49.66292,46.68598 79.11406,49.2557 7.64369,0.66694 18.94944,18.12297 26.02502,27.57684 -7.22419,-17.07097 -2.93594,-26.33573 0.99083,-37.1376 2.32299,-6.39016 3.72484,-25.15655 1.02112,-38.44734 -11.70795,-12.86389 -17.3313,-28.20739 -18.44605,-45.38827 -6.97527,7.21601 -22.64111,8.30464 -37.21036,6.01773 -21.65904,-3.3998 -36.81063,-0.15019 -48.80998,11.79584 -13.26215,-14.55518 -39.38838,-24.79587 -77.14756,-31.13499 -2.4163,4.54821 -3.48257,9.12454 -5.27121,13.07356 0.1763,6.70014 -5.22672,16.89788 -6.13219,18.01121 z"
        id="path6458"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sccscscsccscccs" />
+       sodipodi:nodetypes="sccscscsccscccs"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -583.102,-419.46671 c 17.71951,35.212 35.20435,69.09982 46.72303,69.32527 6.36358,-17.52604 -22.91409,-69.20374 -28.19815,-78.91209"
        id="path6460"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -586.68147,-424.4552 c 0.80228,3.07305 0.58901,5.82818 2.2e-4,8.46098 -1.51414,6.76968 -16.8165,9.41356 -21.5203,-6.4964 l -2.15052,-13.04045"
        id="path6462"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cscc" />
+       sodipodi:nodetypes="cscc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -608.49945,-424.52907 c 1.93747,18.7856 -20.46854,24.9644 -30.25074,11.48692 l -5.60385,-15.60937"
        id="path6464"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -638.75021,-413.04215 c 3.33411,7.58072 -9.57149,19.68594 -23.8096,10.09053 l -5.21264,-6.99948"
        id="path6466"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -685.95997,-397.22655 7.2512,9.52189 c 8.91915,0.69057 17.20583,0.51625 17.56394,-10.49991 l -1.41498,-4.74705"
        id="path6468"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -678.70879,-387.70466 c 0.53633,11.95341 -10.64912,14.91148 -17.34036,15.55416"
        id="path6470"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -683.85578,-376.19051 c 3.87004,14.18231 27.80139,3.59296 27.92398,-1.85305 l -6.1344,-15.27428"
        id="path6472"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -638.75021,-413.04215 8.75959,26.48104 c -0.44824,10.87033 -18.41941,19.37838 -25.94121,8.51755"
        id="path6474"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -608.04323,-419.96816 5.06416,22.43217 c 0.53529,10.4343 -18.30546,20.23231 -27.01158,10.97488"
        id="path6476"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -586.68147,-424.4552 7.20504,24.09824 c 0.96466,11.56538 -20.49745,18.4314 -23.50264,2.82097"
        id="path6478"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:url(#pattern6582);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -579.61596,-397.05262 c 7.09992,36.8316 35.81078,100.54436 21.29975,110.4948 -6.85928,6.49656 -20.89527,-68.5436 -31.34289,-102.81541"
        id="path6480"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M -558.31624,-286.55782 Z"
        id="path6482"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -558.31624,-286.55782 c -17.34732,9.99251 -31.1504,-57.54889 -45.48199,-113.52854"
        id="path6484"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:url(#pattern6580);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -615.30249,-383.51779 c 2.26636,37.74505 16.78542,73.35788 6.44425,113.29691 2.87837,6.49353 6.72253,11.63982 14.39979,11.43914 1.00458,-34.46408 12.00205,-61.09413 -8.52064,-138.75425 -0.23259,7.9896 -6.18619,11.08248 -12.3234,14.0182 z"
        id="path6486"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -630.77254,-388.73916 c 17.79553,59.47485 4.30917,97.27788 21.9143,118.51828"
        id="path6488"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:url(#pattern6578);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -629.99065,-386.56111 4.39393,18.55075 c -8.42905,28.88104 -5.46297,55.8749 -7.05318,83.62334 -3.04648,5.30179 -6.72478,7.32454 -11.84903,1.84331 -0.96792,-47.72281 0.54855,-63.44406 1.15168,-90.92997 8.29964,-1.46351 12.09343,-6.32209 13.3566,-13.08743 z"
        id="path6490"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccc" />
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -644.49893,-282.54371 c -21.33199,-36.7667 -1.02275,-59.93107 -11.4329,-95.49985"
        id="path6492"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:url(#pattern6576);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -669.37231,-368.61418 -0.89626,71.86716 c 5.72248,-3.04922 24.00133,-42.43205 14.72773,-79.26741 -3.03555,2.29673 -9.11391,4.63299 -13.83147,7.40025 z"
        id="path6494"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -671.36224,-295.93254 c -12.07135,1.84533 -6.24709,-49.70464 -9.53347,-76.04152"
        id="path6496"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <g
        id="g6525"
-       transform="rotate(1.851443,10897.755,-46604.435)">
+       transform="rotate(1.851443,10648.169,-46846.083)"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502">
       <rect
          ry="17.727083"
          y="68.852905"
@@ -842,73 +1115,917 @@
        d="m -882.23821,-272.61575 c -13.30116,38.35155 -53.61562,50.54467 -54.49269,74.20585 l 40.71383,21.68654 c 2.021,-14.19037 7.11823,-17.59335 13.90555,-22.63746 8.17817,-3.4407 16.75379,-9.60418 25.87573,-19.51029 29.39422,-15.97006 48.39322,-0.90271 59.29246,15.69167 15.91779,-24.9384 36.87761,-26.83839 62.02831,-9.58895 12.55293,14.93729 35.25848,25.8971 44.1207,27.55049 4.83868,11.41754 7.6435,17.4529 15.56372,25.06057 l 37.64601,-31.445 c -8.90402,-27.77045 -15.42195,-32.91006 -40.49671,-56.37051 l -5.67736,-20.83094"
        id="path6527"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccc" />
+       sodipodi:nodetypes="cccccccccccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -869.24803,-206.10017 c 28.48266,-7.75661 55.70182,-10.30922 70.55575,38.06782 8.88018,-48.02227 45.52993,-40.3763 78.74868,-31.46716"
        id="path6529"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -864.89194,-207.66404 c -2.48037,42.46735 -6.04798,47.80526 -15.22567,80.86841 -17.85682,37.933399 3.56742,49.557001 19.17514,23.46495 -21.98651,26.501693 8.9484,45.938716 15.36791,14.068642 -9.57383,33.92507 14.31074,37.845351 22.79569,14.077746 -7.15169,26.998698 22.62548,30.971955 21.84606,6.463805 3.28314,27.511627 27.75019,18.863202 22.75809,-0.866257 6.66494,21.950508 38.08796,12.336685 22.23659,-7.958971 16.39129,24.843912 32.87387,6.084926 19.53256,-11.965972 14.69723,26.739394 32.95973,0.720903 15.60913,-14.064823 19.4173,18.376717 28.06855,2.59883 18.25726,-14.84679 -12.06438,-25.72753 -23.52828,-55.80157 -30.36188,-84.04597"
        id="path6531"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccc" />
+       sodipodi:nodetypes="cccccccccccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -880.11761,-126.79563 c 49.92525,64.955843 105.14103,86.441086 175.49332,4.44442"
        id="path6533"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path6535"
        d="m -867.38561,-176.20289 c 53.81547,64.18021 89.89882,72.72832 145.46595,14.40481"
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:url(#pattern6574);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -875.85492,-140.5716 6.90584,-24.94566 c 48.19403,67.923448 98.57525,79.086748 151.92571,13.19458 l 8.71286,21.3151 c -56.9314,61.987132 -112.29257,76.657241 -167.54441,-9.56402 z"
        id="path6537"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:url(#pattern6572);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -936.73092,-198.4099 c -1.43158,9.9455 1.37289,25.04763 2.13136,37.65913 12.25825,-0.4148 24.41085,0.24842 36.14714,5.15911 l 2.43533,-21.1317 z"
        id="path6558"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:url(#pattern6570);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -675.23061,-160.15732 c 6.26609,5.56807 12.66479,11.05239 20.89583,15.37936 9.89506,-8.38931 19.88798,-17.01385 27.84026,-20.7333 -3.47745,-8.51765 -5.54355,-15.88062 -11.09008,-26.09106 z"
        id="path6560"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -654.33481,-144.77795 c -19.1759,24.29952 -22.81421,34.29346 -29.45851,51.075231 5.92449,-4.998692 11.94573,-7.635411 17.4015,-24.076541 -1.12669,22.583599 14.7263,7.39615 16.51986,-12.95335 2.01173,16.43141 17.61489,17.35556 6.22604,-10.86007 11.05543,24.66591 30.37377,11.78299 11.21511,-7.50351 16.11798,17.63505 26.85349,13.30391 21.00886,-3.96279 20.53394,7.03397 24.99332,1.1267 20.90333,-11.66345 13.54047,18.58797 17.51412,-14.03713 37.25238,-13.0329 -11.65044,-15.05826 -57.57405,16.00605 -73.2283,12.24408"
        id="path6562"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccc" />
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -637.58463,-191.60231 c 8.97208,32.25058 49.09269,-41.34213 71.23333,-5.31874 2.51579,4.7901 -3.16843,4.2657 -19.60055,-3.22452 8.90124,6.51464 3.72624,9.63043 -17.99431,7.51686 23.15606,0.6673 7.36601,17.6675 -10.39904,5.02875 22.86507,15.81968 1.93502,18.34216 -10.37267,6.62153 23.99315,16.76695 2.95375,15.41321 -1.77667,15.46718"
        id="path6564"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        sodipodi:nodetypes="cccccccc"
        inkscape:connector-curvature="0"
        id="path6566"
        d="m -898.45242,-155.59166 c 11.03583,11.89764 13.17875,22.18136 16.20827,33.67933 -12.15696,-4.00053 -20.47708,-12.00066 -28.17693,-23.7722 -3.63057,17.34706 -33.04837,19.71535 -22.40284,-4.98146 -14.67616,14.46493 -32.93875,12.47499 -35.182,-0.8711 -14.12016,8.98795 -21.89845,-3.68083 -17.70416,-11.21762 -18.82482,9.73143 -6.56442,-17.45701 -31.78672,-15.98751 12.2705,-24.55098 57.47936,27.79577 82.89724,17.99145"
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        sodipodi:nodetypes="cccccc"
        inkscape:connector-curvature="0"
        id="path6568"
        d="m -936.7309,-198.4099 c -1.32875,24.25086 -74.847,-31.52065 -83.9636,3.12748 -0.8316,5.34626 7.0678,9.22963 20.1951,-3.17172 -6.3165,9.04299 4.40046,17.07545 24.27061,8.0518 -21.69623,8.11927 9.36339,26.59286 22.08711,8.88856 -4.53583,9.008 3.50656,13.87808 18.21089,8.93124"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -936.40609,-274.50981 c 13.61324,-2.42646 17.07963,-79.40009 41.5621,-118.75595"
+       id="path6598"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -904.90631,-293.21603 c 8.69231,-8.85892 14.18499,-22.13638 17.64486,-38.22105"
+       id="path6600"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="ssscccsss"
+       inkscape:connector-curvature="0"
+       id="path6602"
+       d="m -1402.7892,-519.57579 c -9.1216,-9.04709 -7.3717,-32.28864 20.4395,-32.50412 60.1281,-0.46589 49.8464,35.75981 45.425,70.66516 -2.7632,21.81516 -1.4016,49.04333 37.8763,49.04333 -19.354,11.8919 -54.1824,6.61156 -67.7344,24.63968 -13.1028,-17.62916 -45.5601,-11.78368 -66.8692,-25.65117 24.0909,-1 36.2172,-6.20324 42.282,-28.10328 5.1153,-18.4715 7.7499,-35.07548 3.1508,-40.45706 -4.8814,-5.71182 -9.9779,-13.07796 -14.57,-17.63254 z"
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="cssscc"
+       inkscape:connector-curvature="0"
+       id="path6604"
+       d="m -1376.1401,-415.74709 c -1.0765,-16.62433 0.3766,-37.64602 2.301,-55.57601 1.9694,-18.34913 -1.5617,-31.69314 -14.1065,-47.43561 -8.4076,-10.55071 2.519,-22.84014 11.6896,-23.20137 30.1166,-1.1863 32.9515,20.8391 31.6796,42.32045 -3.693,28.05071 -14.3584,57.81943 -8.9334,83.6234"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path6606"
+       d="m -1363.8415,-410.28221 c -6.518,-16.92547 -2.8694,-28.9417 10.1243,-103.67288 -2.9268,3.61786 -6.8657,5.63342 -11.579,6.42284 7.2757,11.38496 4.6931,25.14104 3.4823,39.5124"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6608"
+       d="m -1341.367,-420.92179 c -3.217,-16.18294 1.7001,-35.17332 3.7573,-44.32609"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6614"
+       d="m -1326.4552,-439.33254 c -2.5527,6.96112 -2.6517,10.19738 -2.1334,15.88744"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <ellipse
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       transform="rotate(-5.7121651)"
+       ry="8.4005203"
+       rx="9.3265619"
+       cy="-658.86603"
+       cx="-1312.1672"
+       id="ellipse6616"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <ellipse
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       transform="rotate(-5.7121651)"
+       style="opacity:1;fill:#020202;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.98383594;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="ellipse6618"
+       cx="-1312.1672"
+       cy="-658.86603"
+       rx="3.0586023"
+       ry="2.7549112" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6620"
+       d="m -1342.553,-542.02082 c 2.5365,-5.41308 -21.3297,-31.66492 -21.9441,-17.34891"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6622"
+       d="m -1360.8637,-550.95834 c -1.6658,-9.1515 -15.1427,-25.56611 -21.5622,-13.5315"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6624"
+       d="m -1374.567,-552.37962 c -2.6242,-5.86222 -15.2995,-25.4984 -22.5231,-12.50473"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6626"
+       d="m -1387.9938,-552.36609 c -2.9707,-4.00163 -14.6077,-25.39197 -23.1681,-10.97773"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6628"
+       d="m -1397.0634,-549.99641 c -2.7848,-1.96386 -19.1859,-26.56339 -23.7735,-9.05584"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path6630"
+       d="m -1402.3945,-546.13936 c -26.3121,-21.27218 -26.1452,-15.23481 -27.5384,-10.80649 l 25.564,13.66304"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path6632"
+       d="m -1386.1755,-488.99699 c -21.9883,-6.80093 -63.0533,-3.44272 -95.5935,-3.99908 22.7274,-20.01688 42.7987,-7.64918 65.2117,-12.63877 5.1969,-2.64238 7.3968,-5.5421 1.2108,-9.16183 -23.9877,-3.18456 -49.0825,-5.1061 -73.6238,-7.65915 25.5701,-24.26885 53.8651,-9.33916 80.8763,-12.87614"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path6634"
+       d="m -1481.769,-492.99607 c -14.3732,-4.55842 -26.8485,-4.50563 -39.4249,-4.6983 -11.1609,-6.22252 -17.16,-11.03524 -19.9958,-16.48017 10.8699,1.10201 21.2613,3.37056 32.6324,3.25049 -3.4905,-2.89582 -4.76,-6.2978 -5.5026,-9.81983 18.8507,3.18495 22.841,3.09674 37.4282,-0.28042"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:connector-curvature="0"
+       id="path6636"
+       d="m -1474.056,-520.88977 -0.2758,22.49645"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:connector-curvature="0"
+       id="path6638"
+       d="m -1457.483,-518.69192 0.014,14.7563"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:connector-curvature="0"
+       id="path6640"
+       d="m -1443.3849,-517.31014 0.856,12.54481"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:connector-curvature="0"
+       id="path6642"
+       d="m -1428.2073,-515.77042 1.0797,10.79405"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:connector-curvature="0"
+       id="path6644"
+       d="m -1530.9967,-495.41689 c -21.9218,2.14335 -44.4084,7.63548 -56.6858,10.88176 -8.6658,2.29135 -4.4841,19.98648 8.0053,19.88158 27.4984,-0.23095 64.4631,-11.71889 73.4586,-4.33986 14.1752,11.62806 36.1584,46.05159 42.9673,51.73297 4.1065,3.42654 11.3652,7.78381 16.103,8.73041 l 13.4963,-24.85288 c -5.2116,-1.53624 -9.8924,-5.15393 -13.0317,-9.97763 -10.7106,-16.45694 -27.464,-42.16101 -37.1124,-47.3054 -11.2605,-6.00394 -29.0367,-6.5269 -47.2006,-4.75095 z m 48.4073,18.91218 c 5.5866,-0.63218 12.1267,2.59505 16.5281,8.71749 l 9.6098,13.36795 c 5.8685,8.16326 5.6472,18.2905 -0.4963,22.70702 l -0.1516,0.10913 c -6.1435,4.41652 -15.8138,1.40043 -21.6824,-6.76282 l -9.6103,-13.36791 c -5.8685,-8.16325 -5.6472,-18.29101 0.4962,-22.70753 l 0.1522,-0.10919 c 1.5359,-1.10413 3.2921,-1.74341 5.1543,-1.95414 z"
+       style="fill:url(#pattern6778);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       transform="rotate(54.287835,-232.14426,-2256.4306)"
+       id="g6652">
+      <g
+         id="g6650">
+        <rect
+           rx="13.349271"
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           id="rect6646"
+           width="31.157532"
+           height="16.241695"
+           x="492.56061"
+           y="-204.8541"
+           ry="8.0656052" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path6648"
+           d="m 493.25893,-196.92105 h 29.26953"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="cssc"
+       inkscape:connector-curvature="0"
+       id="path6664"
+       d="m -1579.6491,-464.37444 c -2.7643,3.00258 -5.848,8.07973 -5.7614,10.07142 0.5194,11.9429 9.1719,13.29322 20.1892,5.4074 7.179,-5.13852 10.0184,-12.13837 14.8457,-18.87705"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path6666"
+       d="m -1556.0905,-459.11606 c -2.6899,11.11652 9.9149,15.67364 19.3702,4.73724 l 13.0773,-15.87982"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path6668"
+       d="m -1536.7203,-454.37882 c -5.4272,14.4596 11.4679,19.00217 19.9845,8.0602 l 16.726,-17.937"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path6670"
+       d="m -1518.2158,-445.13647 c -4.6916,16.85691 15.714,20.54732 22.1536,17.52637 l 13.6266,-12.26833"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path6672"
+       d="m -1496.0622,-427.6101 c 0.6811,16.97467 11.1298,18.49044 22.4514,18.62471 l 8.591,-9.03831"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path6674"
+       d="m -1473.6108,-408.98539 c 3.8931,10.38129 10.5565,15.75004 22.4978,11.56924 l 5.669,-13.09059"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="cscc"
+       inkscape:connector-curvature="0"
+       id="path6676"
+       d="m -1574.371,-444.50199 c -1.0548,3.50893 -4.0239,6.54176 -2.3825,12.83581 2.1513,8.24911 12.5123,15.99788 22.0415,3.2479 l 9.5867,-19.76117"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path6678"
+       d="m -1553.337,-431.19955 c -4.9867,11.54443 5.7901,20.22505 16.6361,8.03049 l 16.3537,-18.83986"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path6680"
+       d="m -1534.9632,-425.20127 c -8.9192,18.89478 21.7481,20.6192 27.7225,14.59721 l 11.1785,-17.00604"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path6682"
+       d="m -1505.6691,-413.13907 c -3.4103,19.17527 22.0629,20.64006 27.1254,15.92844 l 4.9329,-11.77476"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="csc"
+       inkscape:connector-curvature="0"
+       id="path6684"
+       d="m -1476.9273,-400.6741 c 2.2962,13.28225 17.2165,18.81514 21.5795,15.43294 4.0333,-3.12672 3.1743,-7.73108 4.2348,-12.17499"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="cssc"
+       inkscape:connector-curvature="0"
+       id="path6686"
+       d="m -1590.7096,-470.93104 c -9.3533,6.13409 -25.1275,25.68843 -23.7593,32.29075 0.6584,3.17674 15.4745,17.85286 19.2456,18.2836 0,0 13.6483,-0.89972 19.2185,-8.56999"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path6688"
+       d="m -1614.4557,-439.83817 c -18.1065,42.50251 -17.6286,63.28031 -26.4431,89.19669 24.5286,-20.80022 40.8609,-44.10667 49.664,-69.71533 l -3.9885,1.2e-4 c -12.5578,-8.73089 -16.4696,-14.31524 -19.2324,-19.48148 z"
+       style="fill:url(#pattern6782);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path6690"
+       d="m -1580.9279,-423.78685 c -17.0548,58.12676 -33.5772,69.85078 -41.3302,114.62309 0.071,17.78217 9.6587,11.09885 17.5077,8.88488 -7.4421,-18.45164 27.4656,-80.74573 41.1984,-121.11861 -4.4062,0.29867 -8.7414,-0.1843 -12.4528,-7.52919 z"
+       style="fill:url(#pattern6784);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="cscc"
+       inkscape:connector-curvature="0"
+       id="path6692"
+       d="m -1604.7504,-300.27888 c 27.0993,-15.08728 29.8828,-59.83942 36.1973,-86.05087 1.3375,-5.55217 6.1709,-18.68628 21.6534,-21.44396 l 10.3197,-15.12516"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path6694"
+       d="m -1546.8997,-407.77371 c -19.1003,64.16994 -34.155,92.35564 -38.9207,135.91434 7.153,10.33767 19.7744,-0.0572 22.3514,-5.16071 7.6052,-50.49679 25.9517,-107.14882 34.6691,-131.89935 -2.5779,-1.0567 -4.7713,-2.46676 -6.0554,-4.71237 0,0 -2.5222,-3.82718 -3.3122,-6.22436 z"
+       style="fill:url(#pattern6786);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="cscc"
+       inkscape:connector-curvature="0"
+       id="path6696"
+       d="m -1563.469,-277.02008 c 21.9168,-14.85256 25.0585,-42.08795 28.8393,-70.55723 0.8043,-6.05596 3.5332,-23.35238 16.3751,-33.89651 1.7036,-10.45235 5.2782,-19.76326 11.0139,-29.13024"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="cscccc"
+       inkscape:connector-curvature="0"
+       id="path6698"
+       d="m -1518.2546,-381.47382 c -4.8244,3.48138 -13.3074,81.82844 -16.7947,92.1714 -2.4309,7.20967 9.3717,10.4109 16.5599,7.38428 5.23,-35.88132 0.5709,-63.33139 23.0966,-114.37509 -4.1169,-2.09582 -12.5254,-4.95399 -10.2763,-16.84584 -3.9845,5.71004 -10.9205,18.11894 -12.5855,31.66525"
+       style="fill:url(#pattern6788);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path6700"
+       d="m -1476.9273,-400.67409 c -9.9963,17.08851 -32.5806,70.8969 -23.9757,119.12404 4.6228,-7.4247 8.3973,-14.44725 13.9134,-19.07431 -3.3698,-16.73514 13.6029,-63.95899 18.9213,-85.68148 -1.7021,-2.33174 -6.8267,-5.03481 -8.859,-14.36825 z"
+       style="fill:url(#pattern6790);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       transform="rotate(0.05535007,367516.43,-2159637.5)"
+       id="g6748">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect6742"
+         width="82.153114"
+         height="36.644791"
+         x="678.33496"
+         y="68.852905"
+         ry="17.727083" />
+      <rect
+         ry="9.9156284"
+         y="77.075012"
+         x="688.30304"
+         height="20.497231"
+         width="62.030987"
+         id="rect6744"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 697.28601,87.127039 h 43.3578"
+         id="path6746"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path6750"
+       d="m -1464.3215,-280.02408 c -13.3012,38.35155 -53.6157,50.54467 -54.4927,74.20585 l 40.7138,21.68654 c 2.021,-14.19037 7.1182,-17.59335 13.9055,-22.63746 8.1782,-3.4407 16.7538,-9.60418 25.8758,-19.51029 29.3942,-15.97006 60.658,-1.92173 71.8032,14.67265 11.1452,-16.59438 42.409,-30.64271 71.8032,-14.67265 9.122,9.90611 17.6976,16.06959 25.8758,19.51029 6.7873,5.04411 11.8845,8.44709 13.9055,22.63746 l 40.7138,-21.68654 c -0.877,-23.66118 -41.1915,-35.8543 -54.4927,-74.20585"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path6754"
+       d="m -1446.9753,-215.07237 c -2.4803,42.46735 -6.048,47.80526 -15.2256,80.86841 -17.9504,24.08883 -0.5486,37.209146 15.9945,18.88128 -17.1221,17.989153 4.3648,39.764785 18.5485,13.60092 -13.4091,25.41253 11.0366,34.197117 19.5216,10.429512 -7.9,23.818191 17.8548,31.252588 21.0978,6.463805 -2.7973,24.98593 20.2766,27.870428 20.5226,3.557297"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path6762"
+       d="m -1518.8143,-205.81823 c -1.4315,9.9455 1.3729,25.04763 2.1314,37.65913 12.2583,-0.4148 24.4109,0.24842 36.1471,5.15911 l 2.4354,-21.1317 z"
+       style="fill:url(#pattern6804);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1480.5358,-162.99999 c 18.7833,14.5106 5.2031,20.615 16.2083,33.67933 -12.1569,-4.00053 -8.3163,-9.00724 -16.0161,-20.77878 -1.8153,8.67353 -16.3717,7.14505 -19.1582,-3.1161 -2.8374,9.19218 -15.6769,8.23798 -16.9022,-4.11043 -6.5067,10.26189 -16.8824,8.66742 -16.6406,-2.54135 -6.1781,7.60969 -14.2392,3.10482 -12.7417,-4.1295 -5.5633,5.8036 -13.4701,4.18349 -11.7911,-7.3859 -6.3015,6.43262 -16.8033,-0.34755 -14.7061,-4.11595 -5.9157,0 -7.1257,-6.50872 -27.2966,-10.65188 19.567,-12.76439 64.0274,16.75754 82.8972,17.99145"
+       id="path6770"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6774"
+       d="m -1518.4894,-281.91814 c 13.6132,-2.42646 17.0796,-79.40009 41.5621,-118.75595"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6776"
+       d="m -1486.9896,-300.62436 c 8.6923,-8.85892 14.1849,-22.13638 17.6448,-38.22105"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:url(#pattern6860);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1201.7037,-494.4054 c 21.9218,2.14335 44.4084,7.63548 56.6858,10.88176 8.6658,2.29135 4.4841,19.98648 -8.0053,19.88158 -27.4984,-0.23095 -64.4631,-11.71889 -73.4586,-4.33986 -14.1752,11.62806 -36.1584,46.05159 -42.9673,51.73297 -4.1065,3.42654 -11.3652,7.78381 -16.103,8.73041 l -13.4963,-24.85288 c 5.2116,-1.53624 9.8924,-5.15393 13.0317,-9.97763 10.7106,-16.45694 27.464,-42.16101 37.1124,-47.3054 11.2605,-6.00394 29.0367,-6.5269 47.2006,-4.75095 z m -48.4073,18.91218 c -5.5866,-0.63218 -12.1267,2.59505 -16.5281,8.71749 l -9.6098,13.36795 c -5.8685,8.16326 -5.6472,18.2905 0.4963,22.70702 l 0.1516,0.10913 c 6.1435,4.41652 15.8138,1.40043 21.6824,-6.76282 l 9.6103,-13.36791 c 5.8685,-8.16325 5.6472,-18.29101 -0.4962,-22.70753 l -0.1522,-0.10919 c -1.5359,-1.10413 -3.2921,-1.74341 -5.1543,-1.95414 z"
+       id="path6808"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <g
+       id="g6816"
+       transform="matrix(-0.58371362,0.81195961,0.81195961,0.58371362,-803.93138,-749.81807)"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502">
+      <g
+         id="g6814">
+        <rect
+           ry="8.0656052"
+           y="-204.8541"
+           x="492.56061"
+           height="16.241695"
+           width="31.157532"
+           id="rect6810"
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           rx="13.349271" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 493.25893,-196.92105 h 29.26953"
+           id="path6812"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1153.0513,-463.36295 c 2.7643,3.00258 5.848,8.07973 5.7614,10.07142 -0.5194,11.9429 -9.1719,13.29322 -20.1892,5.4074 -7.179,-5.13852 -10.0184,-12.13837 -14.8457,-18.87705"
+       id="path6818"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1176.6099,-458.10457 c 2.6899,11.11652 -9.9149,15.67364 -19.3702,4.73724 l -13.0773,-15.87982"
+       id="path6820"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1195.9801,-453.36733 c 5.4272,14.4596 -11.4679,19.00217 -19.9845,8.0602 l -16.726,-17.937"
+       id="path6822"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1214.4846,-444.12498 c 4.6916,16.85691 -15.714,20.54732 -22.1536,17.52637 l -13.6266,-12.26833"
+       id="path6824"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1236.6382,-426.59861 c -0.6811,16.97467 -11.1298,18.49044 -22.4514,18.62471 l -8.591,-9.03831"
+       id="path6826"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1259.0896,-407.9739 c -3.8931,10.38129 -10.5565,15.75004 -22.4978,11.56924 l -5.669,-13.09059"
+       id="path6828"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1158.3294,-443.4905 c 1.0548,3.50893 4.0239,6.54176 2.3825,12.83581 -2.1513,8.24911 -12.5123,15.99788 -22.0415,3.2479 l -9.5867,-19.76117"
+       id="path6830"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1179.3634,-430.18806 c 4.9867,11.54443 -5.7901,20.22505 -16.6361,8.03049 l -16.3537,-18.83986"
+       id="path6832"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1197.7372,-424.18978 c 8.9192,18.89478 -21.7481,20.6192 -27.7225,14.59721 l -11.1785,-17.00604"
+       id="path6834"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1227.0313,-412.12758 c 3.4103,19.17527 -22.0629,20.64006 -27.1254,15.92844 l -4.9329,-11.77476"
+       id="path6836"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1255.7731,-399.66261 c -2.2962,13.28225 -17.2165,18.81514 -21.5795,15.43294 -4.0333,-3.12672 -3.1743,-7.73108 -4.2348,-12.17499"
+       id="path6838"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1141.9908,-469.91955 c 9.3533,6.13409 25.1275,25.68843 23.7593,32.29075 -0.6584,3.17674 -15.4745,17.85286 -19.2456,18.2836 0,0 -13.6483,-0.89972 -19.2185,-8.56999"
+       id="path6840"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:url(#pattern6862);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1118.2447,-438.82668 c 18.1065,42.50251 17.6286,63.28031 26.4431,89.19669 -24.5286,-20.80022 -40.8609,-44.10667 -49.664,-69.71533 l 3.9885,1.2e-4 c 12.5578,-8.73089 16.4696,-14.31524 19.2324,-19.48148 z"
+       id="path6842"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:url(#pattern6864);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1151.7725,-422.77536 c 17.0548,58.12676 33.5772,69.85078 41.3302,114.62309 -0.071,17.78217 -9.6587,11.09885 -17.5077,8.88488 7.4421,-18.45164 -27.4656,-80.74573 -41.1984,-121.11861 4.4062,0.29867 8.7414,-0.1843 12.4528,-7.52919 z"
+       id="path6844"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1127.95,-299.26739 c -27.0993,-15.08728 -29.8828,-59.83942 -36.1973,-86.05087 -1.3375,-5.55217 -6.1709,-18.68628 -21.6534,-21.44396 l -10.3197,-15.12516"
+       id="path6846"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:url(#pattern6866);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1185.8007,-406.76222 c 19.1003,64.16994 34.155,92.35564 38.9207,135.91434 -7.153,10.33767 -19.7744,-0.0572 -22.3514,-5.16071 -7.6052,-50.49679 -25.9517,-107.14882 -34.6691,-131.89935 2.5779,-1.0567 4.7713,-2.46676 6.0554,-4.71237 0,0 2.5222,-3.82718 3.3122,-6.22436 z"
+       id="path6848"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1169.2314,-276.00859 c -21.9168,-14.85256 -25.0585,-42.08795 -28.8393,-70.55723 -0.8043,-6.05596 -3.5332,-23.35238 -16.3751,-33.89651 -1.7036,-10.45235 -5.2782,-19.76326 -11.0139,-29.13024"
+       id="path6850"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:url(#pattern6868);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1214.4458,-380.46233 c 4.8244,3.48138 13.3074,81.82844 16.7947,92.1714 2.4309,7.20967 -9.3717,10.4109 -16.5599,7.38428 -5.23,-35.88132 -0.5709,-63.33139 -23.0966,-114.37509 4.1169,-2.09582 12.5254,-4.95399 10.2763,-16.84584 3.9845,5.71004 10.9205,18.11894 12.5855,31.66525"
+       id="path6852"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:url(#pattern6870);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1255.7731,-399.6626 c 9.9963,17.08851 32.5806,70.8969 23.9757,119.12404 -4.6228,-7.4247 -8.3973,-14.44725 -13.9134,-19.07431 3.3698,-16.73514 -13.6029,-63.95899 -18.9213,-85.68148 1.7021,-2.33174 6.8267,-5.03481 8.859,-14.36825 z"
+       id="path6854"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1214.211,-280.90665 c -13.6132,-2.42646 -17.0796,-79.40009 -41.5621,-118.75595"
+       id="path6856"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1245.3366,-299.51933 c -8.6923,-8.85892 -12.3934,-21.01288 -17.6448,-38.22105"
+       id="path6858"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1386.5564,-421.05408 c 3.217,-16.18294 -1.7001,-35.17332 -3.7573,-44.32609"
+       id="path6876"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1402.262,-441.18462 c 2.8172,7.09341 3.3133,12.57863 2.9272,17.60723"
+       id="path6878"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       id="path6896"
+       d="m -1267.7542,-279.97709 c -6.9601,-15.57484 -12.9074,-32.85896 -53.7789,-33.73045 -38.3987,-0.81878 -43.9622,-19.45897 -45.2288,-39.20482 -1.2666,19.74585 -6.8301,38.38604 -45.2288,39.20482 -40.8715,0.87149 -45.3707,18.10862 -52.3308,33.68346 2.6532,-17.02334 -3.0815,-29.08269 -9.65,-40.64866 5.7829,-27.50678 17.1241,-58.74923 17.1241,-58.74923 0.9055,-1.11333 6.3085,-11.31107 6.1322,-18.01121 1.7887,-3.94902 2.8549,-8.52535 5.2712,-13.07356 31.1446,7.79433 65.4199,15.38918 78.6821,29.94436 12.4516,-15.1406 42.3705,-20.23279 79.5055,-28.93287 2.8345,6.54529 3.787,7.49967 5.669,13.09059 -0.1364,5.82676 4.4815,15.63113 5.5866,18.94303 3.3652,10.38037 10.6945,29.01447 17.8966,56.83588 -6.5685,11.56597 -12.3032,23.62532 -9.65,40.64866 z"
+       style="fill:url(#pattern6898);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscsccccccccccc" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path6909"
+       d="m -1519.5695,-171.56591 c -8.6653,3.28852 -17.9207,-2.50251 -9.6386,-10.05916 -9.6932,1.56508 -12.07,-8.16762 -5.7993,-12.07359 -8.0394,-0.0246 -12.3205,-6.86672 -2.786,-13.63158 -10.3859,0.58651 -11.3391,-12.40546 -7.1642,-13.48648 -4.0806,-4.28302 -0.2028,-9.64873 -11.1169,-27.11054 22.7387,5.3619 26.2333,50.80619 38.3562,65.31922"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1281.3035,-214.30225 c -28.4827,-7.75661 -70.1125,-9.57346 -85.2124,38.80358 -15.0999,-48.37704 -56.7297,-46.56019 -85.2124,-38.80358"
+       id="path6921"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1286.0565,-215.07237 c 2.4803,42.46735 6.048,47.80526 15.2256,80.86841 17.9504,24.08883 0.5486,37.209146 -15.9945,18.88128 17.1221,17.989153 -4.3648,39.764785 -18.5485,13.60092 13.4091,25.41253 -11.0366,34.197117 -19.5216,10.429512 7.9,23.818191 -17.8548,31.252588 -21.0978,6.463805 2.7973,24.98593 -20.2766,27.870428 -20.5226,3.557297"
+       id="path6923"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1270.8309,-134.20396 c -19.1751,23.46495 -52.3765,52.190644 -95.685,52.932814 -41.3297,0.708261 -76.5099,-29.467864 -95.685,-52.932814"
+       id="path6925"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       sodipodi:nodetypes="csc"
+       inkscape:connector-curvature="0"
+       id="path6927"
+       d="m -1283.5629,-183.61122 c -26.9077,32.09011 -60.0531,52.95421 -82.953,52.95421 -22.8999,0 -56.0453,-20.8641 -82.953,-52.95421"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       id="path6929"
+       style="fill:url(#pattern6939);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1275.0935,-147.97993 -6.9059,-24.94566 c -26.3421,29.65868 -58.8012,50.04295 -84.5165,50.04295 -25.7153,0 -58.1744,-20.38427 -84.5165,-50.04295 l -6.9059,24.94566 c 31.3677,31.79177 64.5257,51.286355 91.4224,51.286355 26.8967,0 60.0547,-19.494585 91.4224,-51.286355 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsccsc" />
+    <path
+       style="fill:url(#pattern6941);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1214.2175,-205.81823 c 1.4315,9.9455 -1.3729,25.04763 -2.1314,37.65913 -12.2583,-0.4148 -24.4109,0.24842 -36.1471,5.15911 l -2.4354,-21.1317 z"
+       id="path6931"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path6933"
+       d="m -1252.496,-162.99999 c -18.7833,14.5106 -5.2031,20.615 -16.2083,33.67933 12.1569,-4.00053 8.3163,-9.00724 16.0161,-20.77878 1.8153,8.67353 16.3717,7.14505 19.1582,-3.1161 2.8374,9.19218 15.6769,8.23798 16.9022,-4.11043 6.5067,10.26189 16.8824,8.66742 16.6406,-2.54135 6.1781,7.60969 14.2392,3.10482 12.7417,-4.1295 5.5633,5.8036 13.4701,4.18349 11.7911,-7.3859 6.3015,6.43262 16.8033,-0.34755 14.7061,-4.11595 5.9157,0 7.1257,-6.50872 27.2966,-10.65188 -19.567,-12.76439 -64.0274,16.75754 -82.8972,17.99145"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1272.9924,-140.955 c -26.9077,32.09011 -65.0041,51.326004 -93.5235,51.73813 -27.4641,0.396875 -66.6158,-19.64802 -93.5235,-51.73813"
+       id="path6935"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/path6568.png"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1213.4623,-171.56591 c 8.6653,3.28852 17.9207,-2.50251 9.6386,-10.05916 9.6932,1.56508 12.07,-8.16762 5.7993,-12.07359 8.0394,-0.0246 12.3205,-6.86672 2.786,-13.63158 10.3859,0.58651 11.3391,-12.40546 7.1642,-13.48648 4.0806,-4.28302 0.2028,-9.64873 11.1169,-27.11054 -22.7387,5.3619 -26.2333,50.80619 -38.3562,65.31922"
+       id="path6937"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
   </g>
   <g
      inkscape:groupmode="layer"
