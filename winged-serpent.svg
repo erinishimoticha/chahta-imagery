@@ -29,8 +29,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="1033.8198"
-     inkscape:cy="426.94044"
+     inkscape:cx="1832.1243"
+     inkscape:cy="2308.9505"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -324,7 +324,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -473,7 +473,7 @@
          id="path6769"
          transform="translate(-9.1462566e-6,1.9751769e-5)"
          style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.55891061;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m -95.153448,747.6716 c 27.346107,-1.06334 50.993403,-18.45839 67.102831,-34.59581 11.531004,-11.55105 19.1026021,-22.22143 22.7298064,-25.44677 2.1583176,-1.91919 5.38062157,-3.78143 8.176009,-4.44801 2.7969306,-0.66696 6.1824275,-0.90526 9.2857436,-0.38991 3.101098,0.51496 6.78559,1.92737 9.835579,3.57819 3.047701,1.64958 6.80045,4.28889 9.4113,7.04801 2.619218,2.76795 5.182597,6.36993 6.626917,9.54672 1.444317,3.17678 2.418553,6.71775 2.62681,9.93612 0.208377,3.22001 -0.305384,6.81724 -1.374011,9.68388 -1.068731,2.86691 -2.84145,6.51728 -5.201426,8.61362 -8.303519,7.37593 -41.6861638,46.9125 -71.10674,88.71785 -0.250199,-5.77374 5.454903,-21.45687 10.811592,-37.43714 5.637493,-16.81798 10.487087,-32.6464 12.296295,-42.76744 -6.031621,0.63045 -13.100514,2.64168 -20.717298,4.8342 -19.375942,5.57746 -41.848927,11.97875 -60.503408,3.12649 z m 67.102831,-34.59581 c -0.07965,-3.50345 -0.368305,-8.52952 0.0634,-11.33651 0.439415,-2.8571 1.141334,-5.59956 2.109905,-8.18591 0.968756,-2.58673 2.205309,-5.02028 3.717288,-7.2626 1.512146,-2.24257 3.300749,-4.29544 5.376735,-6.1231 2.075992,-1.82767 4.342504,-3.34483 6.765412,-4.56514 2.4226067,-1.22015 5.0030933,-2.14421 7.7035174,-2.78261 2.70015535,-0.63836 5.5228541,-0.99167 8.4262802,-1.0677 2.9031346,-0.076 5.8907354,0.12515 8.9169564,0.59821 3.026013,0.47302 6.095209,1.21859 9.158441,2.23325 3.068112,1.01628 5.632755,2.01957 8.571597,3.77929 2.407288,1.44145 2.933511,2.04114 6.060565,4.10912 4.496946,-4.26218 8.173206,-12.98503 10.647181,-20.73555 2.463325,-7.71715 3.702352,-14.33574 3.702352,-14.33574 2.197913,-3.15436 19.168431,3.54641 17.985113,7.78433 -3.09472,11.08373 -7.365156,26.7948 -13.558018,44.79188 -1.081213,3.14211 6.089031,10.45522 6.089031,10.45522 9.381646,-8.05504 23.158274,-23.51141 31.803299,-32.05426 7.025632,4.04877 10.964282,11.85387 10.964282,11.85387 0.24351,1.97941 -16.168082,23.05401 -36.69775,45.03584 -22.195181,23.76516 -43.235531,42.48134 -55.402188,52.33299 -11.5049052,9.31581 -21.4624536,16.89593 -29.039788,22.40799 -7.840003,5.70314 -16.523564,11.6793 -27.184334,18.26535 -9.769592,-15.46121 -19.521929,-30.93331 -29.256968,-46.41629 17.475419,-10.68342 29.80098,-23.62243 36.657698,-37.24353"
+         d="m -95.153448,747.6716 c 27.346107,-1.06334 50.993403,-18.45839 67.102831,-34.59581 11.531004,-11.55105 19.1026021,-22.22143 22.7298064,-25.44677 2.1583176,-1.91919 5.38062157,-3.78143 8.176009,-4.44801 2.7969306,-0.66696 6.1824275,-0.90526 9.2857436,-0.38991 3.101098,0.51496 6.78559,1.92737 9.835579,3.57819 3.047701,1.64958 6.80045,4.28889 9.4113,7.04801 2.619218,2.76795 5.182597,6.36993 6.626917,9.54672 1.444317,3.17678 2.418553,6.71775 2.62681,9.93612 0.208377,3.22001 -0.305384,6.81724 -1.374011,9.68388 -1.068731,2.86691 -2.84145,6.51728 -5.201426,8.61362 -8.303519,7.37593 -41.6861638,46.9125 -71.10674,88.71785 -0.250199,-5.77374 5.454903,-21.45687 10.811592,-37.43714 5.637493,-16.81798 10.487087,-32.6464 12.296295,-42.76744 -6.031621,0.63045 -13.100514,2.64168 -20.717298,4.8342 -19.375942,5.57746 -41.848927,11.97875 -60.503408,3.12649 z m 67.102831,-34.59581 c -0.07965,-3.50345 -0.368305,-8.52952 0.0634,-11.33651 0.439415,-2.8571 1.141334,-5.59956 2.109905,-8.18591 0.968756,-2.58673 2.205309,-5.02028 3.717288,-7.2626 1.512146,-2.24257 3.300749,-4.29544 5.376735,-6.1231 2.075992,-1.82767 4.342504,-3.34483 6.765412,-4.56514 2.4226067,-1.22015 5.0030933,-2.14421 7.7035174,-2.78261 2.70015535,-0.63836 5.5228541,-0.99167 8.4262802,-1.0677 2.9031346,-0.076 5.8907354,0.12515 8.9169564,0.59821 3.026013,0.47302 6.095209,1.21859 9.158441,2.23325 3.068112,1.01628 5.632755,2.01957 8.571597,3.77929 2.407288,1.44145 2.933511,2.04114 6.060565,4.10912 4.496946,-4.26218 8.173206,-12.98503 10.647181,-20.73555 2.463325,-7.71715 3.702352,-14.33574 3.702352,-14.33574 2.197913,-3.15436 19.168431,3.54641 17.985113,7.78433 -3.09472,11.08373 -7.365156,26.7948 -13.558018,44.79188 -1.081213,3.14211 6.089031,10.45522 6.089031,10.45522 9.381646,-8.05504 23.158274,-23.51141 31.803299,-32.05426 7.02563,4.04877 10.96428,11.85387 10.96428,11.85387 0.24351,1.97941 -16.16808,23.05401 -36.697748,45.03584 -22.195181,23.76516 -43.235531,42.48134 -55.402188,52.33299 -11.5049052,9.31581 -21.4624536,16.89593 -29.039788,22.40799 -7.840003,5.70314 -16.523564,11.6793 -27.184334,18.26535 -9.769592,-15.46121 -19.521929,-30.93331 -29.256968,-46.41629 17.475419,-10.68342 29.80098,-23.62243 36.657698,-37.24353"
          inkscape:original-d="m -157.19113,611.49402 c 31.9328,13.03373 70.301452,12.79204 99.824578,10.30345 21.274673,-1.79331 37.956047,-4.75339 44.32586,-4.75339 3.8023196,0 8.5585896,0.7706 11.8532896,2.16414 3.2947,1.39354 6.73423,3.50452 9.226,5.9963 2.4917804,2.49177 4.6972504,6.02579 6.0907904,9.32049 1.39354,3.2947 2.54211,7.76749 2.54211,11.56981 0,3.80232 -0.7706,8.18061 -2.16414,11.47531 -1.39354,3.2947 -3.50451,6.54524 -5.9962904,9.03701 -2.49177,2.49178 -5.9313,4.79174 -9.22599996,6.18528 -3.29470004,1.39354 -7.86198004,2.9201 -11.66429964,2.9201 -15.20928,0 -74.09909,7.60218 -130.646638,27.92268 6.88056,-10.38672 60.577928,-39.38742 78.624038,-52.20143 -6.451646,-3.24329 -15.044967,-5.95642 -24.525526,-8.72785 -23.766282,-6.94752 -53.108212,-14.26137 -68.263772,-31.2119 z m 99.824578,10.30345 c 2.8263,-2.81969 6.620861,-6.83087 9.475561,-8.75947 2.8547,-1.9286 5.905,-3.58971 9.1148,-4.94737 3.2099,-1.35766 6.5794,-2.41187 10.0725,-3.12666 3.4931,-0.71479 7.1098,-1.09017 10.8142,-1.09017 3.7044,0 7.3212,0.37538 10.8143001,1.09017 3.4931,0.71479 6.86260005,1.769 10.0724,3.12666 3.2099,1.35766 6.2601,3.01877 9.1147999,4.94737 2.8547,1.9286 5.5139,4.12468 7.9415,6.5523 2.4276,2.42761 4.6237,5.08675 6.5523,7.94145 1.9286,2.8547 3.3896,5.36656 4.502,8.66946 0.9123,2.70881 0.8598,3.50436 1.853,7.16447 v 0 c 15.4718,0.19496 44.5945,-14.27165 44.5945,-14.27165 5.014,-0.57445 13.1563,16.46294 8.2709,18.46103 -18.0181,7.3694 -25.4859,10.80999 -51.4331,21.42062 -3.6301,1.48446 -3.5813,11.71608 -3.5813,11.71608 14.8353,0.77841 39.7077,-0.0962 54.3341,0.47247 2.1531,7.90291 -1.5106,16.09395 -1.5106,16.09395 -2.952,2.94733 -126.2306,8.67641 -156.5472,9.3564 -36.125499,0.81028 -50.048599,1.50352 -79.920799,1.56086 l -0.798,-54.93465 c 25.71585,0.0173 47.47704,-3.48001 64.834914,-10.37254"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cssscssscssccsccscssscscscccccscccsccc" />
@@ -1924,7 +1924,10 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
        inkscape:transform-center-x="-1.6669305"
-       inkscape:transform-center-y="-13.962204" />
+       inkscape:transform-center-y="-13.962204"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        inkscape:transform-center-y="-9.9032684"
        inkscape:transform-center-x="-1.1823305"
@@ -1932,7 +1935,10 @@
        inkscape:connector-curvature="0"
        id="path6985"
        d="m -1947.3333,359.16484 c 70.7749,-24.38123 131.4457,-7.3983 174.4926,45.7509"
-       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -1915.3841,370.32468 c 40.0619,-13.24901 83.3358,-0.53075 108.6548,29.42353"
@@ -1940,7 +1946,10 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
        inkscape:transform-center-x="-0.68048049"
-       inkscape:transform-center-y="-5.6996475" />
+       inkscape:transform-center-y="-5.6996475"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        inkscape:transform-center-y="-2.2926154"
        inkscape:transform-center-x="-0.27373049"
@@ -1948,7 +1957,10 @@
        inkscape:connector-curvature="0"
        id="path6989"
        d="m -1885.6854,379.3995 c 16.1144,-5.32926 35.6138,0.67632 45.7981,12.72508"
-       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        inkscape:transform-center-y="-13.962204"
        inkscape:transform-center-x="-1.6669305"
@@ -1956,7 +1968,10 @@
        inkscape:connector-curvature="0"
        id="path6991"
        d="m -1993.0016,439.18218 c 99.7334,-39.36835 175.3083,-20.52371 235.7516,59.69953"
-       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -1963.6985,451.30762 c 70.7749,-24.38123 130.8845,-7.02412 173.9314,46.12508"
@@ -1964,7 +1979,10 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
        inkscape:transform-center-x="-1.1823305"
-       inkscape:transform-center-y="-9.9032684" />
+       inkscape:transform-center-y="-9.9032684"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        inkscape:transform-center-y="-5.6996475"
        inkscape:transform-center-x="-0.68048049"
@@ -1972,7 +1990,10 @@
        inkscape:connector-curvature="0"
        id="path6995"
        d="m -1928.5688,464.99818 c 41.3339,-17.4889 79.4657,-2.13447 104.726,28.01535"
-       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -1901.6764,473.78735 c 16.1144,-5.32926 35.6138,0.67632 45.7981,12.72508"
@@ -1980,7 +2001,10 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
        inkscape:transform-center-x="-0.27373049"
-       inkscape:transform-center-y="-2.2926154" />
+       inkscape:transform-center-y="-2.2926154"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -2002.9705,528.61135 c 99.7334,-39.36835 179.7984,-18.83991 240.2417,61.38333"
@@ -1988,7 +2012,10 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
        inkscape:transform-center-x="-1.6669305"
-       inkscape:transform-center-y="-13.962204" />
+       inkscape:transform-center-y="-13.962204"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        inkscape:transform-center-y="-9.9032684"
        inkscape:transform-center-x="-1.1823305"
@@ -1996,7 +2023,10 @@
        inkscape:connector-curvature="0"
        id="path7001"
        d="m -1970.2998,543.16895 c 73.2626,-29.90954 133.4364,-11.82218 174.4926,45.7509"
-       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -1940.0344,555.26423 c 41.7251,-16.10019 85.1633,-3.66366 108.6548,29.42353"
@@ -2004,7 +2034,10 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
        inkscape:transform-center-x="-0.68048049"
-       inkscape:transform-center-y="-5.6996475" />
+       inkscape:transform-center-y="-5.6996475"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
     <path
        inkscape:transform-center-y="-2.2926154"
        inkscape:transform-center-x="-0.27373049"
@@ -2012,6 +2045,18 @@
        inkscape:connector-curvature="0"
        id="path7005"
        d="m -1911.1106,565.53985 c 16.8974,-6.00522 37.2578,-0.74295 45.7981,12.72508"
-       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-ydpi="45.066502" />
+    <path
+       inkscape:export-ydpi="45.066502"
+       inkscape:export-xdpi="45.066502"
+       inkscape:export-filename="/home/erin/chahta/chahta-imagery/pngs-low-res/winged-serpent.png"
+       sodipodi:nodetypes="cssscscc"
+       inkscape:connector-curvature="0"
+       id="path4717"
+       d="m -1215.7876,365.44112 c 15.2276,-12.54716 24.8382,-22.36333 34.5045,-33.6121 9.6663,-11.24877 5.1181,-8.09009 11.4526,-31.16949 9.359,-34.0989 30.7536,-50.5322 35.1012,-45.30484 19.2421,23.13604 -16.2252,49.43763 -55.2814,87.04848 25.9788,-27.50068 67.2702,-40.44183 76.3407,-30.86337 14.3562,15.16024 -59.7188,36.20442 -80.9645,35.16641 -3.2023,3.61319 -2.9657,3.10919 -21.1531,18.73491 z"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:3.78425956;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>
